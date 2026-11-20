@@ -1,0 +1,93 @@
+Shunin_04_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 343, 259, 166, 137
+	offsets: 16, 15, 198, 167
+01
+	bounds: 320, 398, 198, 160
+02
+	bounds: 507, 101, 165, 129
+	offsets: 16, 16, 197, 161
+03
+	bounds: 706, 886, 166, 125
+	offsets: 16, 15, 198, 155
+04
+	bounds: 677, 228, 165, 130
+	offsets: 15, 16, 195, 162
+05
+	bounds: 1012, 207, 166, 129
+	offsets: 16, 16, 198, 161
+06
+	bounds: 2, 63, 166, 128
+	offsets: 16, 15, 198, 158
+	rotate: 90
+07
+	bounds: 131, 2, 164, 124
+	offsets: 16, 16, 196, 156
+08
+	bounds: 844, 214, 166, 129
+	offsets: 16, 16, 198, 161
+09
+	bounds: 1878, 639, 166, 129
+	offsets: 16, 16, 198, 161
+10
+	bounds: 862, 345, 166, 146
+	offsets: 16, 16, 198, 178
+11
+	bounds: 520, 372, 169, 172
+	offsets: 16, 15, 201, 202
+12
+	bounds: 1287, 32, 166, 128
+	offsets: 16, 16, 198, 160
+13
+	bounds: 338, 128, 167, 128
+	offsets: 16, 16, 198, 160
+14
+	bounds: 1010, 77, 166, 128
+	offsets: 16, 15, 198, 158
+15
+	bounds: 2, 231, 165, 132
+	offsets: 16, 15, 197, 162
+16
+	bounds: 691, 360, 169, 145
+	offsets: 16, 15, 201, 175
+17
+	bounds: 842, 84, 166, 128
+	offsets: 16, 16, 198, 160
+18
+	bounds: 674, 98, 166, 128
+	offsets: 16, 16, 198, 160
+19
+	bounds: 1030, 338, 164, 141
+	offsets: 16, 16, 196, 173
+20
+	bounds: 2, 365, 172, 157
+	offsets: 16, 16, 204, 189
+21
+	bounds: 176, 258, 165, 138
+	offsets: 15, 16, 195, 170
+22
+	bounds: 511, 232, 164, 138
+	offsets: 16, 16, 196, 170
+23
+	bounds: 1828, 770, 200, 241
+	offsets: 16, 16, 232, 273
+99
+	bounds: 169, 128, 167, 128
+	offsets: 16, 16, 199, 160
+Body
+	bounds: 1272, 28, 616, 774
+	offsets: 122, 1586, 861, 2421
+	rotate: 90
+Body_2
+	bounds: 2, 477, 534, 1540
+	offsets: 161, 48, 861, 2421
+	rotate: 90
+Face_Shadow
+	bounds: 461, 913, 219, 98
+	offsets: 10, 13, 240, 118
+Hair
+	bounds: 1394, 628, 433, 383
+	offsets: 11, 10, 454, 400

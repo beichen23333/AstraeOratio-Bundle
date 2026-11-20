@@ -1,0 +1,64 @@
+CH80087_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.7
+00
+	bounds: 989, 543, 160, 139
+	offsets: 14, 13, 188, 165
+01
+	bounds: 1753, 544, 160, 139
+	offsets: 14, 13, 188, 165
+02
+	bounds: 1591, 831, 160, 148
+	offsets: 14, 14, 188, 176
+	rotate: 90
+03
+	bounds: 1741, 831, 160, 147
+	offsets: 14, 14, 188, 175
+	rotate: 90
+04
+	bounds: 1591, 684, 160, 145
+	offsets: 14, 14, 188, 173
+05
+	bounds: 1282, 689, 161, 139
+	offsets: 14, 14, 188, 167
+06
+	bounds: 1290, 830, 161, 149
+	offsets: 14, 13, 188, 176
+	rotate: 90
+07
+	bounds: 1753, 685, 160, 144
+	offsets: 14, 14, 188, 172
+08
+	bounds: 958, 684, 161, 146
+	offsets: 14, 14, 188, 174
+09
+	bounds: 1121, 684, 159, 144
+	offsets: 14, 14, 187, 172
+10
+	bounds: 1441, 830, 161, 148
+	offsets: 14, 14, 188, 176
+	rotate: 90
+11
+	bounds: 973, 832, 159, 158
+	offsets: 14, 14, 187, 186
+	rotate: 90
+12
+	bounds: 1133, 830, 161, 155
+	offsets: 14, 14, 188, 183
+	rotate: 90
+13
+	bounds: 1444, 549, 159, 133
+	offsets: 14, 14, 187, 161
+99
+	bounds: 1282, 548, 160, 139
+	offsets: 14, 13, 188, 165
+Body
+	bounds: 480, 14, 513, 977
+	offsets: 12, 971, 532, 1954
+Body_02
+	bounds: 2, 2, 508, 989
+	offsets: 2, 9, 532, 1954
+Glasses
+	bounds: 1570, 494, 225, 62
+	offsets: 1, 7, 232, 76

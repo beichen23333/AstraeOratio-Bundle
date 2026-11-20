@@ -1,0 +1,334 @@
+VT30029_Spine.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.62
+Aho_Hair
+	bounds: 1619, 236, 403, 303
+	offsets: 20, 20, 441, 342
+Aho_Hair_B
+	bounds: 800, 224, 402, 303
+	offsets: 22, 20, 443, 344
+Back_Ribbon_L
+	bounds: 2, 521, 342, 260
+	offsets: 14, 13, 370, 278
+	rotate: 180
+Back_Ribbon_R
+	bounds: 1729, 569, 306, 317
+	offsets: 11, 13, 329, 339
+	rotate: 90
+Body
+	bounds: 283, 1136, 505, 477
+	offsets: 11, 14, 549, 499
+	rotate: 90
+Card_Rope_B
+	bounds: 1707, 208, 277, 339
+	offsets: 20, 22, 314, 379
+	rotate: 270
+Card_Rope_F
+	bounds: 1657, 1406, 457, 389
+	offsets: 20, 22, 497, 431
+	rotate: 270
+Ear
+	bounds: 1605, 1832, 221, 214
+	offsets: 15, 22, 254, 255
+EarRing_L_01
+	bounds: 1290, 1969, 46, 77
+	offsets: 20, 17, 84, 114
+EarRing_L_01 _1
+	bounds: 1874, 1534, 172, 262
+	offsets: 21, 20, 214, 303
+EarRing_L_01_B
+	bounds: 1812, 1948, 43, 72
+	offsets: 19, 20, 81, 114
+EarRing_L_02
+	bounds: 845, 1976, 60, 70
+	offsets: 18, 16, 97, 106
+EarRing_L_02_1
+	bounds: 367, 947, 247, 204
+	offsets: 19, 20, 286, 244
+EarRing_L_02_B
+	bounds: 113, 1911, 61, 71
+	offsets: 19, 18, 99, 109
+EarRing_R_01
+	bounds: 388, 1979, 67, 295
+	offsets: 18, 19, 104, 332
+	rotate: 90
+EarRing_R_02
+	bounds: 943, 1987, 59, 274
+	offsets: 21, 17, 99, 311
+	rotate: 90
+EyeBall_L
+	bounds: 677, 1960, 173, 86
+	offsets: 21, 22, 214, 130
+EyeBall_R
+	bounds: 1175, 1715, 103, 99
+	offsets: 21, 21, 145, 153
+EyeLight_01_L
+	bounds: 581, 1965, 97, 47
+	offsets: 20, 16, 134, 81
+EyeLight_01_R
+	bounds: 1956, 1998, 61, 48
+	offsets: 17, 17, 95, 84
+Eye_01_L
+	bounds: 927, 1935, 113, 78
+	offsets: 21, 31, 162, 166
+Eye_01_R
+	bounds: 16, 1913, 71, 97
+	offsets: 20, 23, 110, 146
+Eyelash_01_L_1
+	bounds: 270, 2007, 107, 39
+	offsets: 20, 18, 140, 77
+Eyelash_01_L_2
+	bounds: 873, 1858, 299, 133
+	offsets: 19, 21, 339, 173
+Eyelash_01_L_3
+	bounds: 569, 1928, 170, 45
+	offsets: 21, 18, 210, 84
+Eyelash_01_R_1
+	bounds: 402, 2028, 59, 18
+	offsets: 21, 21, 102, 59
+Eyelash_01_R_2
+	bounds: 355, 2005, 46, 41
+	offsets: 19, 15, 85, 76
+Eyelash_01_R_3
+	bounds: 1052, 1883, 201, 149
+	offsets: 19, 23, 239, 192
+Eyelash_01_R_4
+	bounds: 1074, 1157, 111, 110
+	offsets: 21, 20, 152, 151
+Eyelash_Close_L
+	bounds: 144, 270, 286, 171
+	offsets: 19, 20, 324, 198
+Eyelash_Close_R
+	bounds: 663, 1836, 219, 82
+	offsets: 22, 19, 260, 120
+Face_Makeup
+	bounds: 1365, 698, 373, 253
+	offsets: 13, 0, 389, 253
+Hair_B_01
+	bounds: 224, 682, 855, 649
+	offsets: 9, 0, 870, 654
+Hair_B_02
+	bounds: 2, 182, 377, 338
+	offsets: 12, 12, 402, 363
+	rotate: 180
+Hair_B_03
+	bounds: 2, 1370, 1288, 676
+	offsets: 6, 0, 1300, 681
+Hair_B_04
+	bounds: 1050, 999, 996, 653
+	offsets: 6, 7, 1010, 660
+Hair_B_04_Line
+	bounds: 218, 1739, 216, 105
+	offsets: 19, 20, 253, 146
+Hair_B_04_Shadow
+	bounds: 1836, 1173, 135, 98
+	offsets: 22, 21, 180, 141
+Hair_B_05
+	bounds: 293, 375, 533, 200
+	offsets: 9, 8, 548, 223
+Hair_B_06
+	bounds: 2, 1887, 950, 159
+	offsets: 16, 18, 977, 199
+Hair_B_07
+	bounds: 720, 417, 350, 410
+	offsets: 14, 11, 377, 433
+	rotate: 90
+Hair_B_08
+	bounds: 1001, 510, 537, 240
+	offsets: 1, 8, 543, 255
+Hair_B_09
+	bounds: 1323, 1401, 249, 135
+	offsets: 3, 3, 262, 146
+Hair_Cover_02
+	bounds: 241, 1203, 112, 209
+	offsets: 20, 18, 149, 249
+Hair_Cover_03
+	bounds: 1531, 2008, 58, 38
+	offsets: 21, 21, 97, 77
+Hair_Cover_04
+	bounds: 1768, 1998, 79, 48
+	offsets: 18, 19, 116, 87
+Hair_F_01
+	bounds: 1384, 863, 385, 662
+	offsets: 8, 8, 399, 680
+	rotate: 90
+Hair_F_02
+	bounds: 1550, 1435, 482, 611
+	offsets: 10, 8, 505, 627
+Hair_F_03
+	bounds: 921, 937, 229, 99
+	offsets: 13, 15, 257, 128
+Hair_F_04
+	bounds: 2, 1183, 203, 253
+	offsets: 15, 15, 233, 283
+Hair_F_05
+	bounds: 820, 1839, 82, 65
+	offsets: 10, 10, 104, 86
+Hair_F_06
+	bounds: 2, 1761, 290, 240
+	offsets: 6, 9, 312, 259
+Hair_F_07
+	bounds: 1577, 399, 174, 345
+	offsets: 14, 12, 198, 368
+	rotate: 90
+Hair_F_08
+	bounds: 237, 1775, 153, 337
+	offsets: 13, 13, 182, 363
+	rotate: 90
+Hair_F_09
+	bounds: 1127, 186, 66, 255
+	offsets: 14, 12, 91, 277
+Hair_F_10
+	bounds: 766, 1514, 72, 145
+	offsets: 11, 9, 93, 161
+Hair_F_11
+	bounds: 1704, 1738, 105, 115
+	offsets: 10, 10, 124, 134
+Hair_F_12
+	bounds: 880, 666, 491, 608
+	offsets: 10, 7, 510, 621
+	rotate: 270
+Hair_F_13
+	bounds: 284, 1921, 83, 50
+	offsets: 10, 9, 102, 68
+Hair_F_14
+	bounds: 1803, 1076, 167, 194
+	offsets: 11, 9, 185, 210
+Hair_F_15
+	bounds: 846, 316, 119, 209
+	offsets: 8, 9, 135, 225
+Hair_Pin
+	bounds: 1194, 391, 313, 162
+	offsets: 9, 31, 330, 205
+	rotate: 180
+Hair_Shadow_01
+	bounds: 677, 569, 69, 183
+	offsets: 21, 17, 109, 219
+Hair_Shadow_02
+	bounds: 183, 1208, 96, 174
+	offsets: 69, 26, 187, 221
+Hair_Shadow_03
+	bounds: 2, 1824, 181, 178
+	offsets: 19, 21, 215, 218
+Hair_Shadow_04
+	bounds: 1265, 218, 286, 282
+	offsets: 19, 17, 322, 317
+Hair_Side_R_01
+	bounds: 1952, 1169, 94, 192
+	offsets: 9, 8, 112, 204
+Hair_Side_R_02
+	bounds: 1157, 180, 259, 459
+	offsets: 12, 10, 279, 479
+	rotate: 270
+Hair_Side_R_03
+	bounds: 350, 438, 359, 335
+	offsets: 3, 3, 365, 343
+	rotate: 270
+Hair_Side_R_04
+	bounds: 1478, 429, 241, 477
+	offsets: 9, 5, 257, 490
+	rotate: 90
+Head
+	bounds: 761, 1268, 462, 549
+	offsets: 63, 54, 575, 662
+	rotate: 270
+Head_Back
+	bounds: 474, 546, 409, 378
+	offsets: 2, 15, 420, 402
+	rotate: 180
+Head_Line
+	bounds: 1257, 1497, 462, 549
+	offsets: 63, 54, 575, 662
+Head_Line_02
+	bounds: 18, 1095, 127, 133
+	offsets: 20, 19, 166, 171
+Mouth
+	bounds: 575, 1783, 174, 59
+	offsets: 22, 21, 219, 100
+Neck
+	bounds: 17, 864, 325, 383
+	offsets: 16, 18, 356, 415
+	rotate: 90
+Nose_01
+	bounds: 2, 2011, 13, 35
+	offsets: 23, 21, 57, 77
+Nose_02
+	bounds: 1578, 1986, 35, 41
+	offsets: 23, 21, 78, 82
+T_EyeBrow_L
+	bounds: 1099, 661, 267, 164
+	offsets: 18, 13, 295, 180
+T_EyeBrow_R
+	bounds: 470, 1936, 113, 53
+	offsets: 19, 20, 149, 92
+
+VT30029_Spine_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.62
+00/BG
+	bounds: 1148, 1529, 517, 364
+	offsets: 3, 3, 523, 371
+	rotate: 90
+00/BG_Boke
+	bounds: 1148, 966, 531, 296
+00/BG_Fog
+	bounds: 459, 843, 1203, 430
+	offsets: 9, 9, 1221, 446
+	rotate: 90
+00/BG_Lights_1
+	bounds: 890, 760, 538, 204
+00/BG_Lights_2
+	bounds: 559, 1704, 342, 133
+	rotate: 90
+00/City
+	bounds: 890, 1228, 818, 257
+	offsets: 7, 7, 1018, 264
+	rotate: 270
+00/Star_Head
+	bounds: 1851, 1751, 195, 220
+	offsets: 422, 691, 2269, 1249
+00/Star_Head_01
+	bounds: 2, 1948, 87, 98
+	offsets: 2171, 1142, 2269, 1249
+00/Star_Tail
+	bounds: 1775, 1109, 744, 271
+	offsets: 7, 7, 758, 285
+	rotate: 90
+00/Star_Tail_01
+	bounds: 1681, 1045, 258, 98
+	offsets: 1028, 244, 1299, 488
+00/Stars_Texture
+	bounds: 194, 1243, 803, 364
+	offsets: 6, 6, 814, 376
+	rotate: 90
+00/Tree_Left _Blur
+	bounds: 75, 949, 216, 408
+	offsets: 13, 13, 237, 433
+	rotate: 90
+00/Tree_Mid_Blur
+	bounds: 1274, 1263, 783, 470
+	offsets: 257, 6, 1047, 476
+	rotate: 90
+00/Tree_Mid_Blur_01
+	bounds: 1745, 1863, 183, 140
+	offsets: 7, 6, 1047, 476
+	rotate: 90
+00/Tree_Right_Blur
+	bounds: 2, 1166, 192, 880
+	offsets: 500, 291, 706, 1171
+00/Tree_Right_Blur_01
+	bounds: 2, 743, 682, 266
+	offsets: 10, 12, 706, 1171
+	rotate: 180
+
+VT30029_Spine_3.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.62
+01/B_Screen
+	bounds: 2, 2, 431, 400
+	offsets: 6, 6, 872, 406
+01/Screen_P
+	bounds: 2, 404, 727, 515

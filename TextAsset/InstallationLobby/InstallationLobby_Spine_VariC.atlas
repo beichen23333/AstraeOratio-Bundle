@@ -1,0 +1,11 @@
+InstallationLobby_Spine_VariC.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+C_Screen
+bounds:2,359,410,628
+Vari_C
+bounds:2,2,336,648
+rotate:90
+Vari_C_02
+bounds:414,339,336,648

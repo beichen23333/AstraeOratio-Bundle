@@ -1,0 +1,16 @@
+InstallationLobby_Spine_VariA.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.45
+A_Frame_F
+bounds:2,2,299,583
+rotate:90
+A_Frame_F_02
+bounds:610,303,299,583
+A_Screen
+bounds:587,91,343,210
+offsets:19,0,401,257
+Vari_A
+bounds:306,303,302,583
+Vari_A_02
+bounds:2,303,302,583

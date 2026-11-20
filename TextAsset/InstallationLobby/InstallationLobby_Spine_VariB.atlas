@@ -1,0 +1,16 @@
+InstallationLobby_Spine_VariB.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.45
+B_Frame_F
+bounds:2,2,299,585
+rotate:90
+B_Frame_F_02
+bounds:610,301,299,585
+B_Screen
+bounds:589,19,159,280
+offsets:37,0,257,288
+Vari_B
+bounds:306,303,302,583
+Vari_B_02
+bounds:2,303,302,583

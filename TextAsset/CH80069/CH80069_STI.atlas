@@ -1,0 +1,68 @@
+CH80069_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1068, 472, 197, 162
+	offsets: 16, 16, 229, 194
+01
+	bounds: 1069, 774, 229, 194
+	rotate: 90
+02
+	bounds: 1265, 803, 200, 172
+	offsets: 16, 16, 232, 204
+	rotate: 90
+03
+	bounds: 2, 845, 197, 158
+	offsets: 16, 16, 229, 190
+04
+	bounds: 1468, 475, 201, 160
+	offsets: 15, 16, 231, 192
+05
+	bounds: 1466, 320, 199, 153
+	offsets: 15, 16, 230, 185
+06
+	bounds: 1267, 473, 197, 161
+	offsets: 15, 16, 227, 193
+07
+	bounds: 1439, 806, 197, 172
+	offsets: 16, 16, 229, 204
+	rotate: 90
+08
+	bounds: 1671, 444, 197, 160
+	offsets: 16, 16, 229, 192
+09
+	bounds: 1265, 636, 201, 165
+	offsets: 16, 15, 233, 195
+10
+	bounds: 1468, 637, 201, 164
+	offsets: 16, 15, 233, 194
+11
+	bounds: 1613, 803, 200, 169
+	offsets: 16, 15, 232, 199
+	rotate: 90
+12
+	bounds: 1784, 606, 200, 166
+	offsets: 15, 16, 231, 198
+	rotate: 90
+13
+	bounds: 1784, 808, 195, 173
+	offsets: 16, 16, 227, 205
+	rotate: 90
+99
+	bounds: 2, 318, 193, 162
+	offsets: 16, 16, 225, 194
+Body
+	bounds: 2, 411, 592, 1067
+	offsets: 7, 981, 611, 2059
+	rotate: 90
+Body_02
+	bounds: 250, 2, 464, 990
+	offsets: 144, 7, 611, 2059
+	rotate: 90
+Hair_Cover
+	bounds: 201, 883, 246, 120
+	offsets: 11, 9, 266, 223
+Hair_Cover_P
+	bounds: 1267, 367, 197, 104
+	offsets: 12, 10, 212, 130

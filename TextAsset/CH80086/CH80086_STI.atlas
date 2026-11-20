@@ -1,0 +1,56 @@
+CH80086_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.7
+00
+	bounds: 659, 12, 162, 130
+	offsets: 13, 14, 188, 158
+01
+	bounds: 2, 688, 188, 158
+02
+	bounds: 168, 71, 162, 139
+	offsets: 13, 14, 188, 167
+03
+	bounds: 1143, 56, 162, 137
+	offsets: 13, 13, 188, 163
+04
+	bounds: 1878, 102, 160, 143
+	offsets: 14, 13, 188, 170
+05
+	bounds: 823, 2, 157, 134
+	offsets: 14, 13, 185, 160
+06
+	bounds: 2, 66, 162, 138
+	offsets: 13, 14, 188, 165
+07
+	bounds: 332, 42, 161, 136
+	offsets: 14, 13, 189, 163
+08
+	bounds: 192, 695, 160, 151
+	offsets: 13, 14, 186, 179
+09
+	bounds: 1557, 103, 157, 148
+	offsets: 14, 13, 185, 174
+10
+	bounds: 1716, 105, 160, 143
+	offsets: 14, 13, 188, 170
+11
+	bounds: 1398, 118, 157, 148
+	offsets: 14, 13, 185, 174
+12
+	bounds: 2, 206, 164, 145
+	offsets: 13, 14, 190, 173
+13
+	bounds: 169, 212, 164, 145
+	offsets: 13, 14, 190, 173
+99
+	bounds: 495, 28, 162, 130
+	offsets: 13, 14, 188, 158
+Body
+	bounds: 2, 136, 710, 1195
+	offsets: 3, 821, 743, 2019
+	rotate: 90
+Body_02
+	bounds: 1197, 194, 652, 835
+	offsets: 84, 10, 743, 2019
+	rotate: 270

@@ -1,0 +1,61 @@
+CH80080_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 451, 2, 223, 265
+	offsets: 16, 16, 255, 297
+	rotate: 90
+01
+	bounds: 1544, 50, 223, 265
+	offsets: 16, 16, 255, 297
+	rotate: 90
+99
+	bounds: 1544, 50, 223, 265
+	offsets: 16, 16, 255, 297
+	rotate: 90
+02
+	bounds: 1277, 51, 223, 265
+	offsets: 16, 16, 255, 297
+	rotate: 90
+03
+	bounds: 1010, 109, 223, 265
+	offsets: 16, 16, 255, 297
+	rotate: 90
+04
+	bounds: 743, 109, 223, 265
+	offsets: 16, 16, 255, 297
+	rotate: 90
+05
+	bounds: 1489, 275, 225, 265
+	offsets: 16, 16, 257, 297
+06
+	bounds: 1674, 542, 225, 265
+	offsets: 16, 16, 257, 297
+07
+	bounds: 518, 227, 223, 265
+	offsets: 16, 16, 255, 297
+08
+	bounds: 1447, 542, 225, 265
+	offsets: 16, 16, 257, 297
+09
+	bounds: 1682, 809, 225, 265
+	offsets: 16, 16, 257, 297
+10
+	bounds: 1455, 809, 225, 265
+	offsets: 16, 16, 257, 297
+11
+	bounds: 1716, 275, 223, 265
+	offsets: 15, 16, 254, 297
+12
+	bounds: 1672, 1076, 225, 265
+	offsets: 16, 16, 257, 297
+13
+	bounds: 1444, 1076, 226, 265
+	offsets: 16, 16, 258, 297
+Body
+	bounds: 2, 179, 799, 1162
+	offsets: 7, 1008, 817, 2172
+Body_02
+	bounds: 743, 332, 744, 1009
+	offsets: 42, 9, 817, 2172
