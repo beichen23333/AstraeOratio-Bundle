@@ -1,0 +1,22 @@
+CH80024_STI.png
+	size: 1024, 2048
+	filter: Linear, Linear
+	scale: 0.8
+Particles_01
+	bounds: 415, 1831, 109, 116
+Particles_02
+	bounds: 415, 1713, 108, 116
+Particles_03
+	bounds: 227, 1734, 186, 213
+Particles_04
+	bounds: 526, 1831, 108, 116
+body
+	bounds: 29, 2, 937, 916
+	offsets: 14, 1176, 1263, 2098
+	rotate: 270
+body_1
+	bounds: 2, 739, 832, 1208
+	offsets: 132, 11, 1263, 2098
+body_2
+	bounds: 639, 615, 383, 1222
+	offsets: 868, 733, 1263, 2098

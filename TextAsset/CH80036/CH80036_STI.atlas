@@ -1,0 +1,21 @@
+CH80036_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+Body
+	bounds: 1021, 1020, 856, 877
+	offsets: 1072, 2153, 2075, 3030
+Body_02
+	bounds: 245, 879, 409, 1018
+	offsets: 1661, 1354, 2075, 3030
+Body_03
+	bounds: 2, 242, 1087, 1655
+	offsets: 927, 505, 2075, 3030
+Body_04
+	bounds: 705, 406, 658, 1239
+	offsets: 516, 1338, 2075, 3030
+	rotate: 270
+Body_05
+	bounds: 616, 2, 744, 1430
+	offsets: 10, 10, 2075, 3030
+	rotate: 90

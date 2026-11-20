@@ -1,0 +1,51 @@
+CH80040_STI.png
+	size: 1024, 2048
+	filter: Linear, Linear
+	scale: 0.78
+00
+	bounds: 473, 337, 242, 168
+01
+	bounds: 2, 10, 242, 158
+02
+	bounds: 717, 7, 242, 163
+03
+	bounds: 473, 170, 242, 165
+04
+	bounds: 229, 170, 242, 165
+05
+	bounds: 717, 172, 242, 163
+06
+	bounds: 61, 239, 242, 166
+	rotate: 90
+07
+	bounds: 246, 2, 229, 166
+08
+	bounds: 229, 353, 242, 169
+09
+	bounds: 717, 337, 242, 167
+10
+	bounds: 780, 1402, 242, 172
+11
+	bounds: 2, 1515, 242, 172
+	rotate: 90
+12
+	bounds: 581, 1288, 242, 170
+	rotate: 90
+13
+	bounds: 477, 7, 229, 161
+99
+	bounds: 2, 1818, 226, 158
+	rotate: 90
+Body
+	bounds: 41, 477, 592, 903
+	offsets: 134, 1043, 1009, 1957
+	rotate: 270
+Body_02
+	bounds: 2, 999, 991, 1045
+	offsets: 10, 8, 1009, 1957
+Glasses
+	bounds: 842, 1762, 282, 165
+	rotate: 90
+Particle
+	bounds: 580, 1531, 279, 513
+	offsets: 10, 10, 289, 532

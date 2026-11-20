@@ -1,0 +1,94 @@
+CH10018_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1758, 440, 176, 136
+	offsets: 16, 16, 208, 167
+	rotate: 90
+01
+	bounds: 210, 224, 208, 167
+	rotate: 90
+02
+	bounds: 1707, 618, 176, 138
+	offsets: 16, 16, 208, 170
+	rotate: 90
+03
+	bounds: 872, 4, 176, 129
+	offsets: 16, 16, 208, 161
+04
+	bounds: 210, 45, 181, 141
+	offsets: 16, 16, 213, 173
+05
+	bounds: 1176, 38, 180, 136
+	offsets: 16, 16, 212, 168
+06
+	bounds: 1898, 98, 162, 119
+	offsets: 16, 16, 194, 150
+	rotate: 90
+07
+	bounds: 1775, 262, 176, 132
+	offsets: 16, 16, 208, 164
+	rotate: 90
+08
+	bounds: 1358, 37, 178, 137
+	offsets: 16, 16, 210, 169
+09
+	bounds: 509, 27, 182, 139
+	offsets: 16, 16, 214, 170
+10
+	bounds: 1723, 846, 176, 136
+	offsets: 16, 15, 208, 167
+	rotate: 90
+11
+	bounds: 693, 11, 177, 141
+	offsets: 16, 16, 209, 173
+12
+	bounds: 1004, 842, 180, 141
+	offsets: 16, 16, 212, 173
+	rotate: 90
+13
+	bounds: 1861, 891, 173, 131
+	offsets: 16, 16, 205, 163
+99
+	bounds: 1761, 2, 172, 135
+	offsets: 15, 16, 203, 167
+	rotate: 90
+Body
+	bounds: 352, 118, 466, 822
+	offsets: 48, 1214, 601, 2037
+	rotate: 90
+Core_Light
+	bounds: 598, 867, 85, 95
+	offsets: 5, 10, 102, 116
+Face_Injury
+	bounds: 1586, 101, 265, 215
+	offsets: 11, 0, 283, 226
+	rotate: 90
+Hair_Cover
+	bounds: 464, 815, 195, 104
+	offsets: 8, 0, 209, 109
+Mask
+	bounds: 2, 51, 408, 206
+	rotate: 90
+Mask_Injury
+	bounds: 1534, 615, 407, 188
+	offsets: 0, 10, 408, 209
+	rotate: 90
+Mask_Shadow_OG
+	bounds: 1835, 569, 275, 206
+	rotate: 90
+Particles_01
+	bounds: 1586, 368, 170, 248
+Particles_02
+	bounds: 700, 790, 194, 302
+	rotate: 90
+Particles_03
+	bounds: 1216, 464, 316, 558
+Particles_04
+	bounds: 1176, 176, 286, 408
+	rotate: 90
+body_1
+	bounds: 2, 426, 596, 1213
+	offsets: 0, 10, 601, 2037
+	rotate: 90

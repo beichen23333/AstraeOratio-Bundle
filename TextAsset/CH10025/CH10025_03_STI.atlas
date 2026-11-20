@@ -1,0 +1,99 @@
+CH10025_03_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.7
+00
+	bounds: 1020, 138, 188, 119
+	offsets: 14, 14, 216, 146
+01
+	bounds: 624, 801, 216, 146
+02
+	bounds: 1212, 201, 188, 122
+	offsets: 14, 14, 216, 150
+03
+	bounds: 1210, 82, 188, 117
+	offsets: 14, 14, 216, 145
+04
+	bounds: 830, 138, 188, 119
+	offsets: 14, 14, 216, 147
+05
+	bounds: 746, 20, 188, 116
+	offsets: 14, 14, 216, 144
+06
+	bounds: 842, 838, 183, 109
+	offsets: 14, 14, 211, 137
+07
+	bounds: 1402, 238, 183, 148
+	offsets: 14, 13, 211, 174
+08
+	bounds: 876, 259, 188, 125
+	offsets: 14, 13, 216, 151
+09
+	bounds: 936, 22, 188, 114
+	offsets: 14, 14, 216, 141
+10
+	bounds: 943, 386, 188, 148
+	offsets: 14, 13, 216, 174
+11
+	bounds: 640, 254, 188, 146
+	offsets: 14, 14, 216, 174
+12
+	bounds: 714, 674, 188, 125
+	offsets: 14, 13, 216, 151
+13
+	bounds: 1787, 157, 184, 124
+	offsets: 14, 14, 212, 152
+14
+	bounds: 1587, 135, 183, 122
+	offsets: 14, 14, 211, 149
+15
+	bounds: 556, 135, 188, 117
+	offsets: 14, 14, 216, 145
+16
+	bounds: 1772, 39, 188, 116
+	offsets: 14, 14, 216, 144
+17
+	bounds: 1031, 799, 188, 148
+	offsets: 14, 13, 216, 174
+99
+	bounds: 1400, 80, 184, 119
+	offsets: 14, 14, 212, 146
+Body
+	bounds: 2, 2, 873, 945
+	offsets: 9, 1115, 889, 2067
+Body_02
+	bounds: 770, 526, 421, 1123
+	offsets: 202, 8, 889, 2067
+	rotate: 270
+Damaged_Glasses
+	bounds: 2, 876, 144, 71
+	offsets: 8, 11, 158, 89
+Glasses
+	bounds: 1221, 847, 211, 100
+	offsets: 11, 11, 232, 120
+Hair_Cover
+	bounds: 2, 201, 164, 225
+	offsets: 7, 6, 182, 242
+Mask
+	bounds: 1163, 323, 237, 220
+	offsets: 9, 8, 246, 236
+Mask_Shadow
+	bounds: 1891, 704, 243, 153
+	offsets: 5, 0, 248, 153
+	rotate: 90
+Particle_01
+	bounds: 1433, 875, 71, 72
+	offsets: 13, 12, 97, 97
+Particle_02
+	bounds: 1925, 595, 121, 122
+	offsets: 1, 0, 123, 122
+Particle_03
+	bounds: 1784, 283, 262, 289
+	offsets: 11, 7, 273, 296
+Particle_04
+	bounds: 1371, 323, 285, 326
+	offsets: 11, 4, 299, 340
+	rotate: 90
+Particle_05
+	bounds: 1624, 257, 212, 311
+	offsets: 5, 4, 218, 326

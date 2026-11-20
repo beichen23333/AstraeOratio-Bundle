@@ -1,0 +1,104 @@
+CH10011_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 2, 460, 277, 145
+	offsets: 16, 15, 309, 175
+01
+	bounds: 279, 1248, 296, 167
+	offsets: 5, 7, 309, 174
+	rotate: 90
+02
+	bounds: 1103, 598, 277, 148
+	offsets: 16, 16, 309, 180
+03
+	bounds: 2, 607, 277, 149
+	offsets: 16, 16, 309, 181
+04
+	bounds: 281, 329, 277, 144
+	offsets: 16, 16, 309, 175
+05
+	bounds: 268, 191, 277, 136
+	offsets: 16, 15, 309, 166
+06
+	bounds: 2, 61, 277, 128
+	offsets: 16, 16, 309, 160
+07
+	bounds: 1382, 624, 277, 158
+	offsets: 16, 16, 309, 190
+08
+	bounds: 1921, 56, 277, 125
+	offsets: 16, 15, 309, 155
+	rotate: 90
+09
+	bounds: 1250, 158, 268, 139
+	offsets: 16, 16, 300, 170
+10
+	bounds: 2, 758, 277, 158
+	offsets: 16, 16, 309, 190
+11
+	bounds: 1473, 1137, 277, 172
+	offsets: 16, 16, 309, 204
+12
+	bounds: 560, 206, 277, 137
+	offsets: 16, 16, 309, 169
+13
+	bounds: 1520, 108, 277, 132
+	offsets: 16, 16, 309, 164
+14
+	bounds: 2, 310, 264, 148
+	offsets: 16, 15, 296, 178
+15
+	bounds: 1520, 251, 264, 146
+	offsets: 16, 16, 296, 178
+16
+	bounds: 1701, 1362, 274, 182
+	offsets: 16, 16, 306, 214
+17
+	bounds: 1752, 1194, 275, 166
+	offsets: 16, 16, 307, 198
+18
+	bounds: 2, 1378, 275, 166
+	offsets: 16, 16, 307, 198
+19
+	bounds: 547, 76, 277, 128
+	offsets: 16, 16, 309, 160
+20
+	bounds: 281, 36, 187, 153
+	offsets: 16, 16, 218, 185
+21
+	bounds: 1373, 926, 264, 144
+	offsets: 16, 16, 296, 176
+22
+	bounds: 839, 144, 277, 134
+	offsets: 16, 16, 309, 166
+99
+	bounds: 281, 607, 263, 143
+	offsets: 16, 16, 295, 174
+	rotate: 90
+Body
+	bounds: 2, 344, 1466, 1200
+	offsets: 0, 984, 1466, 2184
+Body_02
+	bounds: 994, 190, 998, 1039
+	offsets: 245, 0, 1466, 2184
+	rotate: 270
+Core_Light
+	bounds: 2, 1292, 85, 84
+	offsets: 16, 16, 117, 116
+Hair_Cover
+	bounds: 1150, 908, 221, 95
+	offsets: 4, 10, 236, 110
+Particles_01
+	bounds: 1245, 1289, 226, 255
+Particles_02
+	bounds: 1473, 1311, 226, 233
+Particles_03
+	bounds: 1278, 2, 154, 158
+	rotate: 90
+Particles_04
+	bounds: 1118, 2, 154, 158
+	rotate: 90
+Particles_05
+	bounds: 1119, 1168, 124, 126

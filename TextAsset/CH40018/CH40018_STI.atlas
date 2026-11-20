@@ -1,0 +1,19 @@
+CH40018_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+Character
+	bounds: 2, 71, 1135, 924
+	offsets: 8, 574, 1290, 1510
+Character_2
+	bounds: 1030, 139, 856, 600
+	offsets: 287, 9, 1290, 1510
+	rotate: 270
+Character_3
+	bounds: 2, 2, 391, 499
+	offsets: 899, 971, 1290, 1510
+	rotate: 90
+Light_Red
+	bounds: 1551, 34, 755, 495
+	offsets: 8, 1, 770, 496
+	rotate: 270

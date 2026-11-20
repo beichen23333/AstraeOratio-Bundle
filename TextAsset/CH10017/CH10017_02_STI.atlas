@@ -1,0 +1,58 @@
+CH10017_02_STI.png
+	size: 1024, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 745, 86, 218, 180
+	offsets: 16, 16, 250, 212
+01
+	bounds: 2, 1206, 250, 212
+02
+	bounds: 302, 201, 218, 180
+	offsets: 16, 16, 250, 212
+03
+	bounds: 525, 267, 218, 180
+	offsets: 16, 16, 250, 212
+04
+	bounds: 804, 1006, 218, 193
+	offsets: 16, 16, 250, 225
+05
+	bounds: 293, 20, 218, 179
+	offsets: 16, 16, 250, 211
+06
+	bounds: 305, 383, 218, 181
+	offsets: 16, 16, 250, 213
+07
+	bounds: 804, 1226, 218, 194
+	offsets: 16, 16, 250, 226
+08
+	bounds: 779, 819, 218, 185
+	offsets: 16, 16, 250, 217
+09
+	bounds: 752, 450, 218, 182
+	offsets: 16, 16, 250, 214
+10
+	bounds: 522, 86, 218, 179
+	offsets: 16, 16, 250, 211
+11
+	bounds: 532, 449, 218, 183
+	offsets: 16, 16, 250, 215
+12
+	bounds: 312, 566, 218, 183
+	offsets: 16, 16, 250, 215
+13
+	bounds: 712, 634, 218, 183
+	offsets: 16, 16, 250, 215
+99
+	bounds: 752, 268, 218, 180
+	offsets: 16, 16, 250, 212
+Character
+	bounds: 2, 702, 1002, 1134
+	offsets: 0, 903, 1002, 2037
+Character_01
+	bounds: 2, 2, 342, 1090
+	offsets: 337, 8, 1002, 2037
+	rotate: 180
+Hair_Cover
+	bounds: 147, 1731, 220, 105
+	offsets: 11, 10, 234, 118

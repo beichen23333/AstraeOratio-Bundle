@@ -1,0 +1,327 @@
+CH10012_SUD.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.65
+B_collar
+	bounds: 1610, 589, 168, 147
+	offsets: 9, 4, 179, 159
+Body_1
+	bounds: 2, 1219, 115, 212
+	offsets: 10, 8, 135, 230
+Body_2
+	bounds: 1097, 108, 88, 294
+	offsets: 7, 6, 105, 304
+	rotate: 90
+Body_3
+	bounds: 1673, 814, 373, 371
+	offsets: 7, 8, 387, 389
+Body_4
+	bounds: 2, 256, 155, 237
+	offsets: 8, 6, 172, 247
+	rotate: 90
+Body_5
+	bounds: 303, 270, 263, 200
+	offsets: 3, 2, 266, 209
+	rotate: 270
+Body_6
+	bounds: 1983, 1766, 45, 59
+Body_Accessory_1
+	bounds: 1471, 1780, 35, 45
+Body_Accessory_2
+	bounds: 795, 1277, 42, 47
+Body_Accessory_3
+	bounds: 872, 1759, 83, 66
+Body_Accessory_4
+	bounds: 718, 282, 231, 196
+	offsets: 7, 9, 247, 207
+Body_Accessory_5
+	bounds: 2006, 1483, 33, 42
+Character_Shadow
+	bounds: 1164, 1164, 252, 399
+	offsets: 9, 4, 301, 404
+	rotate: 270
+Cheek
+	bounds: 384, 1039, 218, 104
+	offsets: 0, 10, 218, 114
+EyeClose_L
+	bounds: 1100, 1156, 119, 99
+	offsets: 3, 3, 129, 109
+EyeClose_R
+	bounds: 1948, 1236, 98, 57
+	offsets: 6, 9, 109, 75
+Front_hair
+	bounds: 1391, 64, 182, 155
+	offsets: 5, 8, 197, 172
+Guide_fx_ring_01
+	bounds: 879, 467, 226, 226
+Guide_fx_ring_02
+	bounds: 1342, 500, 226, 226
+Guide_fx_ring_03
+	bounds: 1780, 586, 226, 226
+Guide_fx_ring_04
+	bounds: 1107, 406, 224, 226
+	rotate: 90
+Guide_fx_ring_05
+	bounds: 504, 404, 217, 225
+	rotate: 90
+Head
+	bounds: 872, 1283, 542, 644
+	offsets: 3, 6, 549, 655
+	rotate: 270
+Head_2
+	bounds: 929, 632, 362, 431
+	offsets: 5, 5, 371, 441
+	rotate: 90
+Head_Accessory_1
+	bounds: 547, 133, 140, 149
+	offsets: 7, 3, 153, 160
+Head_Accessory_2
+	bounds: 1476, 1423, 52, 58
+	offsets: 10, 10, 72, 78
+Head_Shadow
+	bounds: 1642, 130, 162, 175
+	offsets: 10, 10, 179, 195
+	rotate: 90
+L_Arm
+	bounds: 2, 391, 333, 255
+	offsets: 4, 8, 337, 270
+L_Back_Hair
+	bounds: 1446, 205, 172, 226
+	offsets: 7, 10, 186, 240
+	rotate: 270
+L_Body_1
+	bounds: 1570, 407, 372, 213
+	offsets: 8, 3, 389, 222
+L_Body_2
+	bounds: 791, 29, 296, 174
+	offsets: 6, 9, 313, 185
+L_Body_3
+	bounds: 1927, 1642, 119, 98
+L_Body_4
+	bounds: 39, 865, 352, 435
+	offsets: 6, 31, 369, 473
+L_Body_5
+	bounds: 1052, 161, 127, 175
+	rotate: 90
+L_Eye
+	bounds: 1758, 1289, 74, 72
+	offsets: 9, 9, 92, 91
+L_Eye_P_1
+	bounds: 1456, 1738, 35, 37
+	offsets: 9, 9, 54, 54
+L_Eye_P_2
+	bounds: 1580, 1809, 17, 16
+	offsets: 9, 9, 35, 34
+L_Eye_P_3
+	bounds: 1234, 1796, 28, 29
+	offsets: 8, 10, 46, 48
+L_Eye_P_4
+	bounds: 1508, 1793, 39, 32
+	offsets: 11, 10, 57, 51
+L_Eye_P_5
+	bounds: 1754, 1788, 49, 37
+	offsets: 9, 8, 68, 54
+L_Eye_P_6
+	bounds: 1180, 1766, 60, 59
+	offsets: 10, 9, 77, 75
+L_Eye_White
+	bounds: 1918, 1527, 122, 113
+	offsets: 7, 8, 136, 129
+L_Eyebrows_1
+	bounds: 9, 33, 178, 150
+	offsets: 5, 5, 191, 163
+L_Eyebrows_2
+	bounds: 1535, 1227, 96, 48
+	offsets: 7, 9, 112, 66
+L_Eyebrows_Close
+	bounds: 1812, 84, 188, 112
+	offsets: 9, 6, 207, 127
+L_Ribbon_01
+	bounds: 230, 785, 256, 423
+	offsets: 7, 8, 271, 438
+	rotate: 90
+L_Ribbon_02
+	bounds: 1878, 153, 168, 121
+	offsets: 0, 9, 168, 137
+L_T_Eyebrows
+	bounds: 1660, 817, 117, 119
+	offsets: 9, 8, 135, 133
+Mouth
+	bounds: 1785, 1304, 123, 77
+	offsets: 7, 11, 138, 95
+Mouth_Shadow
+	bounds: 1445, 1718, 48, 30
+	offsets: 9, 9, 66, 48
+Nose
+	bounds: 988, 1815, 14, 10
+	offsets: 10, 10, 33, 30
+Nose_Shadow
+	bounds: 1562, 1805, 17, 20
+	offsets: 10, 9, 38, 39
+P_01
+	bounds: 579, 846, 142, 142
+	offsets: 8, 8, 158, 158
+P_02
+	bounds: 282, 2, 284, 281
+	offsets: 9, 9, 302, 300
+R_Arm_1
+	bounds: 1300, 727, 293, 478
+	offsets: 4, 7, 302, 489
+	rotate: 270
+R_Arm_2
+	bounds: 1480, 1309, 516, 333
+	offsets: 1, 7, 523, 349
+	rotate: 270
+R_Arm_3
+	bounds: 423, 1159, 371, 222
+	offsets: 2, 4, 375, 233
+R_Arm_Band
+	bounds: 1586, 48, 111, 293
+	offsets: 11, 11, 131, 315
+R_Back_Hair
+	bounds: 2, 128, 154, 168
+	offsets: 10, 10, 174, 184
+	rotate: 90
+R_Body_1
+	bounds: 1672, 271, 207, 374
+	offsets: 9, 5, 222, 384
+	rotate: 270
+R_Body_2
+	bounds: 390, 616, 157, 487
+	offsets: 10, 6, 175, 500
+	rotate: 90
+R_Eye
+	bounds: 950, 1718, 59, 46
+	offsets: 10, 12, 81, 69
+R_Eye_P_1
+	bounds: 1262, 1803, 29, 22
+	offsets: 10, 10, 48, 42
+R_Eye_P_2
+	bounds: 1139, 1811, 14, 14
+	offsets: 8, 9, 30, 32
+R_Eye_P_3
+	bounds: 1541, 1804, 21, 21
+	offsets: 9, 9, 40, 39
+R_Eye_P_4
+	bounds: 1052, 1807, 17, 18
+	offsets: 10, 10, 36, 38
+R_Eye_P_5
+	bounds: 1154, 1805, 24, 20
+	offsets: 9, 10, 42, 40
+R_Eye_P_6
+	bounds: 957, 1802, 31, 23
+	offsets: 10, 11, 51, 44
+R_Eye_White
+	bounds: 957, 1759, 96, 66
+	offsets: 8, 10, 112, 85
+R_Eyebrows_1
+	bounds: 597, 1159, 161, 68
+	offsets: 10, 10, 180, 88
+R_Eyebrows_1_Shadow
+	bounds: 1806, 1387, 50, 37
+	offsets: 10, 7, 70, 54
+R_Eyebrows_2
+	bounds: 909, 1442, 60, 37
+	offsets: 10, 9, 81, 58
+R_Eyebrows_Close
+	bounds: 913, 1337, 104, 105
+	offsets: 10, 10, 122, 124
+R_Feet
+	bounds: 950, 251, 159, 354
+	offsets: 5, 7, 164, 366
+	rotate: 90
+R_Front_Hair_1
+	bounds: 2, 658, 94, 218
+	offsets: 10, 10, 113, 236
+R_Front_Hair_2
+	bounds: 681, 181, 140, 287
+	offsets: 8, 10, 155, 304
+	rotate: 270
+R_Front_Hair_3
+	bounds: 1322, 302, 196, 382
+	offsets: 7, 6, 211, 397
+	rotate: 90
+R_Front_Hair_4
+	bounds: 1775, 1318, 245, 507
+	offsets: 5, 7, 259, 522
+R_Front_Hair_5
+	bounds: 872, 1681, 68, 76
+	offsets: 0, 8, 72, 88
+R_Hand_1
+	bounds: 1410, 1645, 91, 97
+	offsets: 7, 11, 106, 116
+R_Hand_2
+	bounds: 168, 49, 159, 150
+	offsets: 6, 6, 175, 166
+R_Hand_3
+	bounds: 1902, 1118, 144, 131
+	offsets: 7, 8, 161, 150
+R_Hand_4
+	bounds: 1197, 804, 126, 133
+	offsets: 8, 8, 144, 150
+R_Hand_5
+	bounds: 1552, 1245, 181, 91
+	offsets: 8, 8, 198, 107
+R_Hand_6
+	bounds: 1262, 1733, 208, 92
+	offsets: 9, 10, 226, 110
+R_Hand_7
+	bounds: 79, 578, 312, 313
+	offsets: 6, 5, 322, 322
+	rotate: 180
+R_Ribbon_01
+	bounds: 439, 207, 213, 195
+	offsets: 9, 8, 229, 209
+R_Side_Hair_1
+	bounds: 1565, 1019, 106, 71
+	offsets: 10, 8, 125, 88
+R_Side_Hair_2
+	bounds: 757, 1325, 107, 84
+	offsets: 10, 7, 127, 101
+R_Side_Hair_3
+	bounds: 1295, 119, 215, 193
+	offsets: 9, 10, 234, 212
+	rotate: 180
+R_Side_Hair_4
+	bounds: 295, 508, 165, 115
+	offsets: 9, 10, 185, 134
+R_T_Eyebrows
+	bounds: 420, 1296, 114, 53
+	offsets: 10, 9, 133, 72
+Screen_P
+	bounds: 2, 1242, 869, 583
+	offsets: 3, 3, 876, 586
+Star_1
+	bounds: 183, 150, 185, 196
+	rotate: 270
+Star_9
+	bounds: 499, 750, 745, 778
+	offsets: 4, 3, 758, 790
+	rotate: 270
+Wand
+	bounds: 1011, 916, 1035, 420
+	offsets: 8, 8, 1052, 436
+Wand_P
+	bounds: 926, 1173, 183, 184
+	offsets: 4, 1, 191, 190
+
+CH10012_SUD_2.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.65
+00/Arm_Glow
+	bounds: 1292, 185, 572, 461
+	offsets: 5, 3, 581, 467
+	rotate: 270
+00/BG
+	bounds: 2, 146, 868, 611
+	offsets: 4, 4, 876, 619
+00/B_Circle_01_1
+	bounds: 870, 691, 55, 66
+00/B_Circle_02_1
+	bounds: 1296, 556, 119, 201
+00/B_Star_01
+	bounds: 1561, 609, 135, 148
+00/Body_Glow
+	bounds: 870, 2, 424, 755
+	offsets: 0, 1, 424, 756

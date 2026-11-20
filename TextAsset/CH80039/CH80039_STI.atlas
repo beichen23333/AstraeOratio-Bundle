@@ -1,0 +1,53 @@
+CH80039_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.7
+00
+	bounds: 1862, 607, 184, 180
+01
+	bounds: 185, 124, 184, 151
+02
+	bounds: 2, 405, 184, 164
+03
+	bounds: 1830, 280, 184, 157
+04
+	bounds: 1855, 829, 183, 167
+05
+	bounds: 1644, 280, 184, 157
+06
+	bounds: 188, 277, 181, 159
+07
+	bounds: 998, 543, 184, 165
+08
+	bounds: 2, 246, 181, 157
+09
+	bounds: 1004, 225, 183, 153
+10
+	bounds: 927, 380, 187, 161
+11
+	bounds: 1703, 439, 182, 166
+12
+	bounds: 798, 29, 183, 151
+13
+	bounds: 184, 672, 180, 149
+99
+	bounds: 1680, 127, 184, 151
+Body
+	bounds: 2, 2, 1106, 994
+	offsets: 1, 699, 1107, 1694
+Body_02
+	bounds: 1052, 117, 627, 879
+	offsets: 240, 7, 1107, 1694
+Body_03
+	bounds: 810, 81, 344, 670
+	offsets: 750, 1005, 1107, 1694
+	rotate: 90
+Glasses
+	bounds: 615, 862, 197, 134
+Hair_Cover
+	bounds: 2, 810, 246, 186
+	offsets: 0, 0, 253, 186
+Particle
+	bounds: 1577, 544, 305, 452
+	offsets: 2, 0, 316, 458
+	rotate: 180

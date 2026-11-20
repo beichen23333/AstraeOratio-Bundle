@@ -1,0 +1,13 @@
+CH40017_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.65
+Character
+	bounds: 469, 2, 935, 1061
+	offsets: 570, 1136, 1635, 2200
+	rotate: 270
+Character_2
+	bounds: 2, 780, 1635, 1150
+	offsets: 0, 0, 1635, 2200
+Light_Red
+	bounds: 109, 1636, 294, 294

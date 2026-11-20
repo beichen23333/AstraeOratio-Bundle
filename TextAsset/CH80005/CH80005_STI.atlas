@@ -1,0 +1,11 @@
+CH80005_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.7
+Body
+	bounds: 2, 61, 1154, 1449
+	offsets: 150, 1409, 1304, 2858
+Body_1
+	bounds: 982, 2, 1064, 1462
+	offsets: 0, 0, 1304, 2858
+	rotate: 180

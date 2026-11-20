@@ -1,0 +1,65 @@
+CH80037_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1036, 9, 208, 123
+	offsets: 16, 16, 240, 154
+01
+	bounds: 926, 529, 240, 154
+02
+	bounds: 569, 101, 208, 124
+	offsets: 16, 16, 240, 156
+03
+	bounds: 1537, 2, 208, 120
+	offsets: 16, 16, 240, 151
+	rotate: 90
+04
+	bounds: 1911, 18, 208, 123
+	offsets: 16, 16, 240, 154
+	rotate: 90
+05
+	bounds: 1327, 87, 208, 123
+	offsets: 16, 16, 240, 154
+06
+	bounds: 1491, 212, 208, 125
+	offsets: 16, 15, 240, 155
+07
+	bounds: 1791, 228, 208, 129
+	offsets: 16, 15, 240, 159
+08
+	bounds: 1701, 102, 208, 124
+	offsets: 16, 16, 240, 156
+09
+	bounds: 826, 113, 208, 124
+	offsets: 16, 16, 240, 156
+10
+	bounds: 1838, 359, 208, 129
+	offsets: 16, 16, 240, 161
+11
+	bounds: 1601, 773, 208, 132
+	offsets: 16, 16, 240, 164
+12
+	bounds: 1036, 175, 208, 124
+	offsets: 16, 15, 240, 154
+13
+	bounds: 2, 559, 189, 100
+	offsets: 16, 16, 221, 132
+	rotate: 90
+99
+	bounds: 779, 8, 191, 103
+	offsets: 16, 16, 223, 134
+Body
+	bounds: 2, 22, 688, 883
+	offsets: 191, 979, 882, 1873
+Body_02
+	bounds: 607, 133, 772, 1061
+	offsets: 8, 6, 882, 1873
+	rotate: 270
+Glasses
+	bounds: 690, 531, 234, 163
+Hair_Cover
+	bounds: 1964, 572, 82, 137
+Particle
+	bounds: 1653, 301, 348, 604
+	offsets: 3, 3, 351, 609

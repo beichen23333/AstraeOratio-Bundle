@@ -1,0 +1,92 @@
+CH80019_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1170, 23, 176, 136
+	offsets: 16, 16, 208, 167
+01
+	bounds: 1867, 700, 208, 167
+	rotate: 90
+02
+	bounds: 435, 117, 176, 138
+	offsets: 16, 16, 208, 170
+03
+	bounds: 1870, 27, 176, 129
+	offsets: 16, 16, 208, 161
+04
+	bounds: 596, 767, 181, 141
+	offsets: 16, 16, 213, 173
+05
+	bounds: 577, 436, 180, 136
+	offsets: 16, 16, 212, 168
+06
+	bounds: 987, 446, 162, 119
+	offsets: 16, 16, 194, 150
+07
+	bounds: 1348, 27, 176, 132
+	offsets: 16, 16, 208, 164
+08
+	bounds: 627, 130, 178, 137
+	offsets: 16, 16, 210, 169
+09
+	bounds: 1822, 416, 182, 139
+	offsets: 16, 16, 214, 170
+10
+	bounds: 807, 80, 176, 136
+	offsets: 16, 15, 208, 167
+11
+	bounds: 1288, 161, 177, 141
+	offsets: 16, 16, 209, 173
+12
+	bounds: 1848, 557, 180, 141
+	offsets: 16, 16, 212, 173
+13
+	bounds: 1695, 23, 173, 131
+	offsets: 16, 16, 205, 163
+99
+	bounds: 985, 2, 172, 135
+	offsets: 15, 16, 203, 167
+	rotate: 90
+Body
+	bounds: 2, 5, 505, 903
+	offsets: 28, 1127, 566, 2030
+Body_02
+	bounds: 487, 358, 550, 1120
+	offsets: 5, 9, 566, 2030
+	rotate: 270
+Core_Light
+	bounds: 499, 812, 82, 96
+	offsets: 8, 11, 102, 116
+Hair_Cover
+	bounds: 1012, 819, 194, 89
+	offsets: 7, 9, 209, 109
+Particles_01
+	bounds: 2, 11, 103, 181
+	offsets: 11, 11, 125, 203
+Particles_02
+	bounds: 779, 783, 125, 233
+	offsets: 11, 10, 147, 254
+	rotate: 90
+Particles_03
+	bounds: 1608, 416, 258, 492
+	offsets: 11, 10, 269, 513
+Particles_04
+	bounds: 1447, 154, 217, 340
+	offsets: 11, 10, 239, 361
+	rotate: 90
+Particles_Glow_01
+	bounds: 1874, 187, 153, 227
+	offsets: 11, 10, 170, 248
+Particles_Glow_02
+	bounds: 467, 257, 174, 289
+	offsets: 10, 3, 194, 302
+	rotate: 90
+Particles_Glow_03
+	bounds: 754, 151, 347, 540
+	offsets: 11, 8, 362, 558
+	rotate: 90
+Particles_Glow_04
+	bounds: 1539, 156, 265, 390
+	offsets: 11, 11, 286, 408
+	rotate: 270

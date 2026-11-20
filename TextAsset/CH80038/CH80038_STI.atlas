@@ -1,0 +1,50 @@
+CH80038_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.73
+00
+	bounds: 1656, 154, 187, 148
+01
+	bounds: 1656, 154, 187, 148
+02
+	bounds: 1672, 304, 187, 153
+03
+	bounds: 1467, 298, 187, 148
+04
+	bounds: 1312, 151, 187, 145
+05
+	bounds: 367, 37, 187, 142
+06
+	bounds: 906, 32, 185, 143
+07
+	bounds: 191, 642, 187, 155
+08
+	bounds: 2, 36, 185, 143
+09
+	bounds: 1280, 299, 185, 152
+10
+	bounds: 2, 642, 187, 155
+11
+	bounds: 1861, 322, 185, 155
+12
+	bounds: 1845, 155, 185, 147
+13
+	bounds: 1845, 7, 179, 146
+99
+	bounds: 1501, 4, 175, 148
+Body
+	bounds: 2, 2, 925, 1247
+	offsets: 3, 806, 928, 2063
+	rotate: 90
+Body_02
+	bounds: 859, 447, 480, 1138
+	offsets: 212, 9, 928, 2063
+	rotate: 90
+Glasses
+	bounds: 2, 799, 265, 128
+Hair_Cover
+	bounds: 269, 845, 175, 82
+	offsets: 8, 7, 191, 101
+Particle
+	bounds: 1028, 145, 282, 355
+	offsets: 0, 0, 282, 358

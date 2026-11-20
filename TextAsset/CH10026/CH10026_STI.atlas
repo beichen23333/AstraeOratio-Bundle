@@ -1,0 +1,103 @@
+CH10026_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1758, 95, 221, 148
+	offsets: 16, 16, 253, 180
+01
+	bounds: 1591, 996, 253, 180
+02
+	bounds: 2, 94, 221, 152
+	offsets: 16, 16, 253, 183
+	rotate: 90
+03
+	bounds: 687, 115, 221, 163
+	offsets: 16, 16, 253, 194
+04
+	bounds: 1129, 208, 221, 176
+	offsets: 16, 15, 253, 206
+05
+	bounds: 1117, 82, 221, 124
+	offsets: 16, 15, 253, 154
+06
+	bounds: 2, 503, 221, 193
+	offsets: 16, 16, 253, 225
+07
+	bounds: 1352, 119, 208, 167
+	offsets: 16, 16, 239, 199
+	rotate: 90
+08
+	bounds: 1846, 955, 221, 184
+	offsets: 16, 16, 253, 216
+	rotate: 90
+09
+	bounds: 1519, 867, 221, 127
+	offsets: 16, 16, 253, 158
+10
+	bounds: 1296, 869, 221, 134
+	offsets: 16, 16, 253, 166
+11
+	bounds: 464, 137, 221, 165
+	offsets: 16, 15, 253, 195
+12
+	bounds: 1825, 245, 221, 181
+	offsets: 16, 16, 253, 213
+13
+	bounds: 1548, 222, 208, 188
+	offsets: 16, 16, 239, 220
+14
+	bounds: 458, 2, 190, 133
+	offsets: 16, 16, 222, 165
+15
+	bounds: 2, 317, 221, 184
+	offsets: 16, 16, 253, 216
+16
+	bounds: 910, 113, 205, 160
+	offsets: 16, 16, 237, 192
+99
+	bounds: 1521, 72, 205, 148
+	offsets: 16, 16, 237, 180
+Body
+	bounds: 233, 274, 513, 927
+	offsets: 34, 1294, 557, 2226
+	rotate: 90
+Body_02
+	bounds: 365, 661, 515, 1301
+	offsets: 12, 6, 557, 2226
+	rotate: 90
+Box
+	bounds: 1609, 411, 437, 464
+	offsets: 11, 11, 458, 479
+Hair_Cover
+	bounds: 1799, 854, 219, 99
+	offsets: 10, 10, 234, 114
+Mask
+	bounds: 138, 4, 216, 115
+	offsets: 11, 11, 239, 136
+Mask_Hair_Cover
+	bounds: 198, 113, 228, 267
+	offsets: 11, 8, 248, 283
+	rotate: 90
+Mask_Shadow
+	bounds: 2, 1118, 170, 58
+	offsets: 9, 11, 188, 80
+Particle_01
+	bounds: 2, 717, 132, 129
+	offsets: 0, 12, 142, 142
+Particle_02
+	bounds: 1157, 432, 253, 257
+	offsets: 7, 12, 269, 279
+	rotate: 90
+Particle_03
+	bounds: 74, 685, 301, 400
+	offsets: 3, 0, 314, 411
+Particle_04
+	bounds: 1317, 328, 291, 358
+	offsets: 11, 0, 302, 368
+Particle_05
+	bounds: 213, 973, 152, 130
+	offsets: 0, 11, 152, 152
+Wand
+	bounds: 2, 1063, 524, 113
+	offsets: 9, 4, 542, 124

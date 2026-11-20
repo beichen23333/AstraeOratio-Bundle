@@ -1,0 +1,14 @@
+CH80015_STI.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.8
+body
+bounds:2,767,1040,1262
+offsets:882,1189,1925,2451
+body_1
+bounds:883,2,1012,997
+offsets:0,802,1925,2451
+rotate:270
+body_2
+bounds:967,771,754,1258
+offsets:1074,0,1925,2451

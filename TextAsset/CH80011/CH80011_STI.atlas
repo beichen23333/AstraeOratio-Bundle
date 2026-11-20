@@ -1,0 +1,11 @@
+CH80011_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+body
+	bounds: 1009, 2, 1037, 1104
+	offsets: 112, 1222, 1306, 2330
+	rotate: 180
+body_1
+	bounds: 2, 794, 1306, 1238
+	offsets: 0, 0, 1306, 2330

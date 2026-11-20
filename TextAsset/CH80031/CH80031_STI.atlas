@@ -1,0 +1,76 @@
+CH80031_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 180, 54, 176, 136
+	offsets: 16, 16, 208, 167
+01
+	bounds: 1853, 745, 208, 167
+	rotate: 90
+02
+	bounds: 1619, 56, 176, 138
+	offsets: 16, 16, 208, 170
+03
+	bounds: 536, 9, 176, 129
+	offsets: 16, 16, 208, 161
+	rotate: 90
+04
+	bounds: 1114, 173, 181, 141
+	offsets: 16, 16, 213, 173
+	rotate: 90
+05
+	bounds: 1257, 58, 180, 136
+	offsets: 16, 16, 212, 168
+06
+	bounds: 1385, 757, 162, 119
+	offsets: 16, 16, 194, 150
+07
+	bounds: 358, 53, 176, 132
+	offsets: 16, 16, 208, 164
+08
+	bounds: 1439, 57, 178, 137
+	offsets: 16, 16, 210, 169
+09
+	bounds: 705, 91, 182, 139
+	offsets: 16, 16, 214, 170
+10
+	bounds: 2, 54, 176, 136
+	offsets: 16, 15, 208, 167
+11
+	bounds: 889, 86, 177, 141
+	offsets: 16, 16, 209, 173
+12
+	bounds: 1844, 135, 180, 141
+	offsets: 16, 16, 212, 173
+13
+	bounds: 1797, 2, 173, 131
+	offsets: 16, 16, 205, 163
+99
+	bounds: 1068, 36, 172, 135
+	offsets: 15, 16, 203, 167
+Body
+	bounds: 2, 355, 598, 2021
+	offsets: 0, 6, 600, 2037
+	rotate: 90
+Body_Mask_Shadow
+	bounds: 412, 187, 291, 264
+Core_Light
+	bounds: 2, 837, 102, 116
+Hair_Cover
+	bounds: 421, 876, 177, 77
+	offsets: 16, 16, 209, 109
+Mask
+	bounds: 705, 228, 408, 190
+	offsets: 0, 10, 408, 209
+Particles_01
+	bounds: 1844, 278, 170, 248
+Particles_02
+	bounds: 1549, 759, 194, 302
+	rotate: 90
+Particles_03
+	bounds: 1284, 196, 316, 558
+	rotate: 90
+Particles_04
+	bounds: 2, 192, 286, 408
+	rotate: 90

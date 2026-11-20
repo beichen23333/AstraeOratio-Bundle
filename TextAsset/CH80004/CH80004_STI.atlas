@@ -1,0 +1,24 @@
+CH80004_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.65
+Body
+	bounds: 2, 743, 1344, 1270
+	offsets: 266, 1477, 2081, 2756
+Body_1
+	bounds: 1450, 2, 596, 676
+	offsets: 7, 1547, 2081, 2756
+Body_2
+	bounds: 1476, 1487, 570, 511
+	offsets: 809, 2235, 2081, 2756
+Body_3
+	bounds: 762, 223, 1284, 1476
+	offsets: 797, 511, 2081, 2756
+Body_4
+	bounds: 2, 5, 677, 888
+	offsets: 145, 662, 2081, 2756
+	rotate: 90
+Body_5
+	bounds: 779, 1704, 309, 993
+	offsets: 613, 8, 2081, 2756
+	rotate: 90

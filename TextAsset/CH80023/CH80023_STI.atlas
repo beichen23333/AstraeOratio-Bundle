@@ -1,0 +1,10 @@
+CH80023_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+body
+	bounds: 838, 257, 465, 680
+	offsets: 361, 917, 937, 1608
+body_1
+	bounds: 2, 2, 932, 935
+	offsets: 5, 0, 937, 1608

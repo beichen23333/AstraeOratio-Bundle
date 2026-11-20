@@ -1,0 +1,58 @@
+CH80021_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.71
+00
+	bounds: 1881, 791, 222, 159
+	offsets: 14, 14, 250, 187
+	rotate: 90
+01
+	bounds: 2, 810, 250, 203
+02
+	bounds: 1871, 178, 222, 175
+	offsets: 14, 14, 250, 203
+	rotate: 90
+03
+	bounds: 1875, 405, 222, 171
+	offsets: 14, 14, 250, 199
+	rotate: 90
+04
+	bounds: 450, 34, 222, 175
+	offsets: 14, 14, 250, 203
+05
+	bounds: 1781, 2, 222, 174
+	offsets: 14, 14, 250, 202
+06
+	bounds: 1010, 7, 222, 174
+	offsets: 14, 14, 250, 202
+07
+	bounds: 958, 825, 222, 188
+	offsets: 14, 14, 250, 216
+08
+	bounds: 1391, 41, 222, 182
+	offsets: 14, 14, 250, 210
+09
+	bounds: 1406, 829, 222, 184
+	offsets: 14, 14, 250, 212
+10
+	bounds: 1182, 829, 222, 184
+	offsets: 14, 14, 250, 212
+11
+	bounds: 2, 41, 222, 176
+	offsets: 14, 14, 250, 204
+12
+	bounds: 2, 626, 222, 182
+	offsets: 14, 14, 250, 210
+13
+	bounds: 786, 39, 222, 181
+	offsets: 14, 14, 250, 209
+99
+	bounds: 226, 38, 222, 175
+	offsets: 14, 14, 250, 203
+body
+	bounds: 932, 152, 861, 948
+	offsets: 0, 784, 955, 1732
+	rotate: 90
+body_1
+	bounds: 2, 208, 955, 805
+	offsets: 0, 0, 955, 1732

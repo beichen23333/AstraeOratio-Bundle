@@ -1,0 +1,38 @@
+CH80020_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+01
+	bounds: 311, 818, 25, 33
+	offsets: 16, 16, 57, 65
+02
+	bounds: 232, 817, 77, 34
+	offsets: 16, 16, 109, 66
+03
+	bounds: 1475, 637, 143, 214
+	offsets: 15, 16, 174, 246
+04
+	bounds: 2, 742, 109, 228
+	offsets: 16, 16, 141, 260
+	rotate: 90
+05
+	bounds: 1620, 636, 137, 215
+	offsets: 15, 16, 167, 246
+06
+	bounds: 1046, 615, 148, 236
+	offsets: 15, 15, 178, 267
+07
+	bounds: 886, 621, 158, 230
+	offsets: 16, 16, 190, 262
+08
+	bounds: 1196, 607, 138, 244
+	offsets: 16, 15, 170, 274
+09
+	bounds: 654, 605, 230, 246
+	offsets: 16, 16, 262, 278
+10
+	bounds: 1336, 625, 137, 226
+	offsets: 15, 16, 167, 258
+body
+	bounds: 2, 2, 849, 1820
+	rotate: 90

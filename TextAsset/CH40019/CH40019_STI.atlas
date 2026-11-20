@@ -1,0 +1,16 @@
+CH40019_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.7
+Character
+	bounds: 2, 712, 1683, 1124
+	offsets: 0, 1015, 1683, 2321
+Character_2
+	bounds: 911, 2, 1229, 1135
+	offsets: 443, 2, 1683, 2321
+	rotate: 270
+Character_3
+	bounds: 1471, 1291, 575, 408
+	offsets: 954, 1908, 1683, 2321
+Light_On
+	bounds: 2, 1488, 307, 348

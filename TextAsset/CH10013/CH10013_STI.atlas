@@ -1,0 +1,93 @@
+CH10013_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1486, 941, 187, 124
+	offsets: 16, 15, 219, 154
+	rotate: 90
+01
+	bounds: 2, 1030, 219, 154
+02
+	bounds: 1486, 777, 186, 128
+	offsets: 16, 15, 218, 158
+03
+	bounds: 1909, 763, 186, 124
+	offsets: 16, 16, 218, 156
+	rotate: 90
+04
+	bounds: 1248, 719, 186, 126
+	offsets: 16, 16, 218, 158
+05
+	bounds: 646, 750, 188, 126
+	offsets: 16, 16, 220, 158
+06
+	bounds: 1674, 695, 187, 120
+	offsets: 16, 16, 219, 152
+07
+	bounds: 1277, 1133, 223, 170
+	offsets: 16, 16, 255, 202
+	rotate: 90
+08
+	bounds: 2, 1186, 223, 170
+	offsets: 16, 16, 255, 202
+09
+	bounds: 227, 1018, 189, 180
+	offsets: 16, 16, 221, 211
+10
+	bounds: 2, 879, 189, 149
+	offsets: 16, 15, 221, 179
+11
+	bounds: 1289, 975, 189, 153
+	offsets: 16, 15, 221, 183
+12
+	bounds: 1293, 847, 191, 126
+	offsets: 16, 16, 223, 158
+13
+	bounds: 672, 878, 191, 126
+	offsets: 16, 16, 223, 158
+14
+	bounds: 2, 751, 188, 126
+	offsets: 15, 16, 218, 158
+15
+	bounds: 1787, 1134, 222, 164
+	offsets: 16, 16, 254, 196
+	rotate: 90
+16
+	bounds: 1618, 1132, 224, 167
+	offsets: 16, 15, 256, 198
+	rotate: 90
+17
+	bounds: 1449, 1130, 226, 167
+	offsets: 16, 15, 258, 198
+	rotate: 90
+18
+	bounds: 193, 884, 184, 132
+	offsets: 16, 15, 215, 163
+99
+	bounds: 1436, 651, 180, 124
+	offsets: 16, 15, 212, 154
+Body
+	bounds: 728, 317, 565, 1039
+	offsets: 234, 1296, 806, 2335
+Body_02
+	bounds: 2, 2, 804, 1354
+	offsets: 0, 5, 806, 2335
+Core_Light
+	bounds: 227, 1221, 105, 107
+	offsets: 4, 4, 113, 113
+Hair_Cover
+	bounds: 1825, 951, 160, 181
+	offsets: 16, 15, 192, 211
+Particle_01
+	bounds: 1545, 504, 155, 201
+	offsets: 0, 5, 155, 206
+Particle_02
+	bounds: 1953, 1266, 86, 90
+Particle_03
+	bounds: 381, 910, 130, 138
+Particle_04
+	bounds: 1650, 815, 257, 317
+	offsets: 9, 5, 266, 322
+Particle_05
+	bounds: 1832, 559, 190, 202

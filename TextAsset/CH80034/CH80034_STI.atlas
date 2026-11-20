@@ -1,0 +1,77 @@
+CH80034_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.7
+00
+	bounds: 1024, 1758, 163, 122
+	offsets: 14, 14, 191, 150
+01
+	bounds: 2, 1730, 191, 150
+02
+	bounds: 1672, 764, 191, 164
+03
+	bounds: 1170, 812, 192, 159
+04
+	bounds: 2, 1286, 195, 150
+05
+	bounds: 423, 127, 188, 160
+06
+	bounds: 1333, 937, 194, 149
+07
+	bounds: 600, 131, 195, 158
+08
+	bounds: 195, 1725, 193, 155
+09
+	bounds: 2, 1144, 188, 158
+10
+	bounds: 1330, 1704, 188, 176
+	offsets: 0, 1, 188, 177
+11
+	bounds: 488, 1246, 188, 175
+	offsets: 0, 4, 188, 179
+12
+	bounds: 356, 1364, 188, 158
+13
+	bounds: 1764, 907, 188, 158
+99
+	bounds: 1627, 42, 191, 146
+	offsets: 0, 4, 191, 150
+Body
+	bounds: 1441, 911, 969, 549
+	offsets: 717, 1586, 2037, 2571
+	rotate: 90
+Body_02
+	bounds: 2, 283, 1021, 1597
+	offsets: 615, 2, 2037, 2571
+Body_03
+	bounds: 1058, 381, 437, 988
+	offsets: 399, 607, 2037, 2571
+	rotate: 90
+Body_03_1
+	bounds: 694, 37, 468, 833
+	offsets: 5, 384, 2037, 2571
+	rotate: 270
+Body_04
+	bounds: 836, 502, 644, 1378
+	offsets: 1385, 210, 2037, 2571
+	rotate: 180
+Body_05
+	bounds: 1180, 65, 311, 866
+	offsets: 618, 1699, 2037, 2571
+	rotate: 90
+Cover
+	bounds: 110, 1643, 227, 85
+	offsets: 9, 3, 242, 93
+Hair_Cover
+	bounds: 1495, 1780, 197, 100
+	offsets: 5, 9, 207, 116
+Head
+	bounds: 371, 1508, 369, 372
+	offsets: 0, 6, 369, 378
+Helmet
+	bounds: 2, 2, 289, 411
+	offsets: 10, 0, 306, 421
+	rotate: 90
+Helmet_Light
+	bounds: 1347, 841, 210, 112
+	offsets: 3, 5, 217, 128

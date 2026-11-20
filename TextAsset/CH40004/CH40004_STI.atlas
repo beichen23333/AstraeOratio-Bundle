@@ -1,0 +1,71 @@
+CH40004_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+Character
+	bounds: 836, 265, 884, 950
+	offsets: 404, 996, 1299, 1950
+	rotate: 270
+Character_2
+	bounds: 2, 2, 744, 1707
+	offsets: 10, 61, 1299, 1950
+	rotate: 90
+Character_3
+	bounds: 602, 717, 690, 1205
+	offsets: 602, 13, 1299, 1950
+	rotate: 180
+Glow
+	bounds: 1291, 935, 660, 987
+Glow_P
+	bounds: 201, 892, 1030, 429
+	offsets: 16, 16, 1062, 462
+	rotate: 90
+Glow_P_01
+	bounds: 1177, 1630, 297, 292
+	offsets: 0, 10, 301, 302
+Glow_P_02
+	bounds: 1595, 580, 451, 457
+	offsets: 0, 4, 461, 462
+Light_Red
+	bounds: 1215, 1383, 195, 263
+	offsets: 7, 11, 210, 277
+Paticle_01
+	bounds: 1953, 1837, 85, 85
+	offsets: 11, 13, 105, 111
+Paticle_02
+	bounds: 632, 1654, 113, 127
+	offsets: 13, 13, 137, 153
+Paticle_03
+	bounds: 1978, 1683, 68, 75
+	offsets: 14, 13, 94, 100
+Paticle_04
+	bounds: 632, 1781, 123, 141
+	offsets: 13, 11, 146, 163
+Paticle_05
+	bounds: 1693, 1710, 72, 74
+	offsets: 9, 13, 94, 100
+Paticle_07
+	bounds: 1953, 1760, 70, 77
+	offsets: 12, 10, 94, 100
+Paticle_6
+	bounds: 1685, 1784, 122, 138
+	offsets: 13, 10, 146, 163
+Red_Orb
+	bounds: 1445, 1822, 116, 100
+	offsets: 10, 9, 134, 121
+String_01
+	bounds: 43, 1301, 40, 621
+	offsets: 11, 1, 62, 622
+	rotate: 180
+String_02
+	bounds: 164, 1523, 37, 399
+	offsets: 12, 12, 62, 423
+String_03
+	bounds: 124, 1504, 39, 418
+	offsets: 11, 2, 62, 423
+String_04
+	bounds: 84, 1321, 40, 601
+	offsets: 11, 7, 62, 609
+String_05
+	bounds: 2, 1039, 41, 883
+	offsets: 11, 5, 63, 888

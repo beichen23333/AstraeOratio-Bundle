@@ -1,0 +1,61 @@
+CH80059_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1564, 362, 214, 161
+	offsets: 16, 15, 246, 191
+	rotate: 90
+08
+	bounds: 1564, 362, 214, 161
+	offsets: 16, 15, 246, 191
+	rotate: 90
+01
+	bounds: 1225, 330, 246, 174
+	rotate: 90
+02
+	bounds: 1224, 114, 214, 153
+	offsets: 16, 15, 246, 183
+	rotate: 90
+03
+	bounds: 1379, 55, 214, 146
+	offsets: 16, 16, 246, 178
+04
+	bounds: 1401, 203, 214, 157
+	offsets: 16, 16, 246, 189
+05
+	bounds: 322, 29, 214, 132
+	offsets: 16, 16, 246, 164
+06
+	bounds: 1401, 362, 214, 161
+	offsets: 16, 15, 246, 191
+	rotate: 90
+07
+	bounds: 882, 79, 204, 160
+	offsets: 16, 16, 236, 192
+09
+	bounds: 666, 56, 214, 143
+	offsets: 16, 16, 246, 174
+10
+	bounds: 1727, 362, 214, 157
+	offsets: 16, 15, 246, 187
+	rotate: 90
+11
+	bounds: 1827, 204, 214, 156
+	offsets: 16, 16, 246, 188
+12
+	bounds: 1827, 50, 214, 152
+	offsets: 16, 15, 246, 182
+13
+	bounds: 1617, 199, 208, 161
+	offsets: 15, 15, 239, 191
+14
+	bounds: 2, 2, 172, 161
+	offsets: 16, 15, 204, 191
+99
+	bounds: 1595, 53, 207, 144
+	offsets: 15, 15, 238, 174
+Character
+	bounds: 2, 128, 448, 1223
+	offsets: 11, 10, 470, 1241
+	rotate: 90

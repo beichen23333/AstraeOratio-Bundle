@@ -1,0 +1,70 @@
+CH80022_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1284, 793, 235, 167
+	offsets: 16, 16, 267, 199
+01
+	bounds: 202, 930, 267, 199
+	rotate: 90
+02
+	bounds: 1803, 962, 235, 167
+	offsets: 16, 16, 267, 199
+	rotate: 90
+03
+	bounds: 1634, 962, 235, 167
+	offsets: 16, 16, 267, 199
+	rotate: 90
+04
+	bounds: 1287, 969, 228, 176
+	offsets: 16, 16, 260, 207
+	rotate: 90
+05
+	bounds: 1753, 730, 230, 167
+	offsets: 16, 16, 262, 199
+	rotate: 90
+06
+	bounds: 1701, 392, 216, 167
+	offsets: 16, 16, 248, 199
+07
+	bounds: 1251, 624, 226, 167
+	offsets: 16, 16, 258, 199
+08
+	bounds: 1711, 561, 218, 167
+	offsets: 16, 16, 250, 199
+09
+	bounds: 1208, 465, 230, 157
+	offsets: 16, 16, 262, 189
+10
+	bounds: 1479, 629, 230, 161
+	offsets: 16, 16, 262, 193
+11
+	bounds: 1521, 792, 230, 168
+	offsets: 16, 16, 262, 200
+12
+	bounds: 1098, 306, 220, 157
+	offsets: 16, 16, 252, 189
+13
+	bounds: 1479, 463, 220, 164
+	offsets: 16, 16, 252, 195
+99
+	bounds: 1465, 962, 235, 167
+	offsets: 16, 16, 267, 199
+	rotate: 90
+Character
+	bounds: 681, 177, 605, 1020
+	offsets: 100, 1184, 708, 2214
+Character_02
+	bounds: 2, 2, 690, 1195
+	offsets: 0, 0, 708, 2214
+Glasses_01
+	bounds: 1577, 276, 246, 130
+	offsets: 13, 12, 270, 154
+Glasses_02
+	bounds: 608, 999, 198, 118
+	offsets: 7, 4, 210, 131
+	rotate: 90
+Hair_Cover
+	bounds: 1320, 330, 264, 133
+	offsets: 9, 9, 278, 150

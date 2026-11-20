@@ -1,0 +1,13 @@
+CH80012_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+body
+	bounds: 2, 662, 1945, 1284
+	offsets: 45, 957, 1990, 2241
+body_1
+	bounds: 2, 4, 999, 1044
+	offsets: 991, 0, 1990, 2241
+body_2
+	bounds: 1024, 2, 1022, 1036
+	offsets: 0, 0, 1990, 2241

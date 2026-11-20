@@ -1,0 +1,60 @@
+CH80021_02_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1541, 2, 250, 186
+	offsets: 16, 16, 282, 218
+01
+	bounds: 1219, 854, 282, 222
+	rotate: 90
+02
+	bounds: 1602, 190, 250, 190
+	offsets: 16, 16, 282, 222
+03
+	bounds: 1443, 684, 250, 200
+	offsets: 16, 16, 282, 232
+04
+	bounds: 1037, 263, 250, 190
+	offsets: 16, 16, 282, 222
+05
+	bounds: 978, 74, 250, 187
+	offsets: 16, 16, 282, 219
+06
+	bounds: 1289, 104, 250, 187
+	offsets: 16, 16, 282, 219
+07
+	bounds: 1443, 886, 250, 218
+	offsets: 16, 16, 282, 250
+	rotate: 90
+08
+	bounds: 1664, 382, 250, 197
+	offsets: 16, 16, 282, 229
+	rotate: 90
+09
+	bounds: 1160, 654, 250, 198
+	offsets: 16, 16, 282, 230
+10
+	bounds: 1695, 634, 250, 198
+	offsets: 16, 16, 282, 230
+	rotate: 90
+11
+	bounds: 1663, 886, 250, 206
+	offsets: 16, 16, 282, 238
+	rotate: 90
+12
+	bounds: 1098, 455, 250, 197
+	offsets: 16, 16, 282, 229
+13
+	bounds: 1412, 485, 250, 197
+	offsets: 16, 16, 282, 229
+99
+	bounds: 1350, 293, 250, 190
+	offsets: 16, 16, 282, 222
+Character
+	bounds: 533, 115, 684, 1021
+	offsets: 0, 919, 892, 1940
+	rotate: 180
+Character_01
+	bounds: 2, 165, 643, 971
+	offsets: 241, 0, 892, 1940

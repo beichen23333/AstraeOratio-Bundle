@@ -1,0 +1,101 @@
+CH10025_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.7
+00
+	bounds: 453, 224, 188, 119
+	offsets: 14, 14, 216, 146
+	rotate: 90
+01
+	bounds: 1320, 463, 216, 146
+02
+	bounds: 584, 295, 188, 122
+	offsets: 14, 14, 216, 150
+03
+	bounds: 988, 167, 188, 117
+	offsets: 14, 14, 216, 145
+04
+	bounds: 1316, 215, 188, 119
+	offsets: 14, 14, 216, 147
+05
+	bounds: 1178, 97, 188, 116
+	offsets: 14, 14, 216, 144
+06
+	bounds: 1110, 854, 183, 109
+	offsets: 14, 14, 211, 137
+07
+	bounds: 945, 406, 183, 148
+	offsets: 14, 13, 211, 174
+08
+	bounds: 1320, 336, 188, 125
+	offsets: 14, 13, 216, 151
+09
+	bounds: 445, 60, 188, 114
+	offsets: 14, 14, 216, 141
+10
+	bounds: 1836, 665, 188, 148
+	offsets: 14, 13, 216, 174
+11
+	bounds: 1130, 412, 188, 146
+	offsets: 14, 14, 216, 174
+12
+	bounds: 920, 838, 188, 125
+	offsets: 14, 13, 216, 151
+13
+	bounds: 1130, 286, 184, 124
+	offsets: 14, 14, 212, 152
+14
+	bounds: 1857, 193, 183, 122
+	offsets: 14, 14, 211, 149
+15
+	bounds: 574, 176, 188, 117
+	offsets: 14, 14, 216, 145
+16
+	bounds: 764, 125, 188, 116
+	offsets: 14, 14, 216, 144
+17
+	bounds: 1832, 815, 188, 148
+	offsets: 14, 13, 216, 174
+99
+	bounds: 1506, 154, 184, 119
+	offsets: 14, 14, 212, 146
+Body
+	bounds: 2, 65, 817, 898
+	offsets: 4, 1115, 828, 2014
+Body_02
+	bounds: 714, 552, 411, 1123
+	offsets: 146, 8, 828, 2014
+	rotate: 270
+Face
+	bounds: 1667, 275, 188, 119
+	offsets: 14, 14, 216, 146
+Glasses
+	bounds: 1295, 863, 211, 100
+	offsets: 11, 11, 232, 120
+Hair_Cover
+	bounds: 915, 2, 164, 225
+	offsets: 7, 6, 182, 242
+	rotate: 270
+Mask
+	bounds: 1581, 362, 237, 220
+	offsets: 9, 8, 246, 236
+Mask_Shadow
+	bounds: 1692, 68, 243, 153
+	offsets: 5, 0, 248, 153
+	rotate: 180
+Particle_01
+	bounds: 696, 712, 71, 72
+	offsets: 13, 12, 97, 97
+Particle_02
+	bounds: 744, 841, 121, 122
+	offsets: 1, 0, 123, 122
+Particle_03
+	bounds: 1781, 316, 262, 289
+	offsets: 11, 7, 273, 296
+Particle_04
+	bounds: 554, 678, 285, 326
+	offsets: 11, 4, 299, 340
+	rotate: 90
+Particle_05
+	bounds: 807, 242, 212, 311
+	offsets: 5, 4, 218, 326

@@ -1,0 +1,136 @@
+CH10006_02_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1282, 900, 232, 185
+	offsets: 16, 16, 264, 217
+01
+	bounds: 1671, 1030, 264, 188
+	rotate: 90
+02
+	bounds: 1763, 321, 232, 164
+	offsets: 16, 15, 264, 195
+03
+	bounds: 877, 190, 232, 157
+	offsets: 16, 16, 264, 189
+04
+	bounds: 1516, 847, 232, 181
+	offsets: 16, 16, 264, 213
+05
+	bounds: 236, 203, 232, 157
+	offsets: 16, 16, 264, 189
+06
+	bounds: 236, 362, 220, 177
+	offsets: 16, 16, 251, 209
+07
+	bounds: 1750, 661, 220, 185
+	offsets: 16, 16, 251, 217
+08
+	bounds: 2, 202, 232, 158
+	offsets: 16, 16, 264, 190
+09
+	bounds: 862, 51, 232, 137
+	offsets: 16, 16, 264, 169
+10
+	bounds: 1861, 1062, 232, 168
+	offsets: 16, 15, 264, 198
+	rotate: 90
+11
+	bounds: 1763, 487, 232, 172
+	offsets: 16, 16, 264, 204
+12
+	bounds: 1672, 167, 232, 152
+	offsets: 16, 15, 264, 183
+13
+	bounds: 1450, 159, 220, 163
+	offsets: 16, 15, 251, 194
+14
+	bounds: 748, 420, 232, 168
+	offsets: 16, 16, 264, 200
+15
+	bounds: 1529, 486, 232, 173
+	offsets: 16, 16, 264, 205
+16
+	bounds: 643, 258, 232, 160
+	offsets: 16, 15, 264, 191
+17
+	bounds: 1216, 320, 232, 165
+	offsets: 16, 16, 264, 197
+18
+	bounds: 1514, 662, 220, 183
+	offsets: 16, 15, 251, 214
+19
+	bounds: 982, 349, 232, 166
+	offsets: 16, 16, 264, 198
+20
+	bounds: 1450, 324, 232, 160
+	offsets: 16, 15, 264, 190
+21
+	bounds: 628, 108, 232, 148
+	offsets: 16, 15, 264, 178
+22
+	bounds: 2, 56, 232, 144
+	offsets: 16, 16, 264, 176
+23
+	bounds: 2, 423, 232, 168
+	offsets: 16, 15, 264, 198
+24
+	bounds: 1295, 487, 232, 173
+	offsets: 16, 16, 264, 205
+25
+	bounds: 1316, 1087, 232, 186
+	offsets: 16, 16, 264, 218
+26
+	bounds: 1750, 848, 232, 180
+	offsets: 16, 16, 264, 212
+27
+	bounds: 470, 172, 232, 156
+	offsets: 16, 16, 264, 188
+	rotate: 90
+28
+	bounds: 1280, 720, 232, 178
+	offsets: 16, 16, 264, 210
+29
+	bounds: 236, 22, 179, 185
+	offsets: 16, 16, 210, 217
+	rotate: 90
+30
+	bounds: 983, 1129, 179, 185
+	offsets: 16, 16, 210, 217
+31
+	bounds: 423, 8, 179, 162
+	offsets: 16, 16, 210, 194
+99
+	bounds: 1111, 162, 222, 156
+	offsets: 16, 16, 254, 188
+Body
+	bounds: 2, 406, 1187, 905
+	offsets: 0, 1073, 1187, 1978
+	rotate: 90
+Body_02
+	bounds: 867, 516, 485, 1077
+	offsets: 429, 9, 1187, 1978
+Hair_Cover
+	bounds: 73, 1496, 197, 97
+	offsets: 9, 10, 211, 114
+Particles_01
+	bounds: 876, 604, 121, 129
+Particles_02
+	bounds: 1671, 1296, 262, 297
+Particles_03
+	bounds: 1672, 3, 162, 175
+	rotate: 90
+Particles_04
+	bounds: 907, 835, 122, 129
+Particles_05
+	bounds: 1353, 1275, 316, 318
+Particles_06
+	bounds: 818, 1316, 277, 337
+	rotate: 90
+Wand
+	bounds: 2, 1153, 88, 440
+	offsets: 9, 10, 106, 450
+Wand_P
+	bounds: 1303, 2, 186, 182
+	offsets: 3, 4, 192, 193

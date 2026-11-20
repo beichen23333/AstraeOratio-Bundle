@@ -1,0 +1,212 @@
+CH80029_02_Spine.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 1.5
+Body_01
+	bounds: 2, 309, 268, 465
+	offsets: 25, 26, 320, 516
+	rotate: 270
+Body_02
+	bounds: 1689, 249, 312, 357
+	offsets: 21, 29, 345, 410
+	rotate: 90
+Ear
+	bounds: 108, 1721, 61, 93
+	offsets: 26, 26, 114, 147
+EyeBrow_L
+	bounds: 736, 1905, 111, 74
+	offsets: 22, 23, 153, 113
+EyeBrow_R
+	bounds: 381, 1934, 81, 81
+	offsets: 25, 22, 128, 126
+EyeBrow_T_L
+	bounds: 1303, 1978, 98, 37
+	offsets: 23, 25, 152, 86
+EyeBrow_T_R
+	bounds: 1046, 1964, 68, 51
+	offsets: 23, 24, 117, 101
+Face_Line
+	bounds: 1715, 1912, 159, 103
+	offsets: 16, 12, 198, 131
+Fine_Hair_01
+	bounds: 1941, 1750, 105, 110
+	offsets: 26, 27, 158, 164
+Fine_Hair_02
+	bounds: 701, 1895, 65, 81
+	offsets: 28, 23, 119, 131
+Fine_Hair_03
+	bounds: 429, 1974, 68, 41
+	offsets: 25, 24, 120, 93
+Fine_Hair_03_1
+	bounds: 82, 1936, 19, 79
+	offsets: 27, 26, 72, 132
+Fine_Hair_04
+	bounds: 1507, 1046, 101, 93
+	offsets: 25, 24, 153, 144
+Fine_Hair_05
+	bounds: 102, 1920, 27, 95
+	offsets: 26, 25, 78, 149
+Fine_Hair_06
+	bounds: 1528, 1049, 92, 88
+	offsets: 26, 26, 143, 143
+Fine_Hair_07
+	bounds: 1959, 451, 87, 332
+	offsets: 25, 22, 134, 378
+Fine_Hair_08
+	bounds: 361, 28, 180, 438
+	offsets: 26, 24, 230, 489
+	rotate: 90
+Fine_Hair_09
+	bounds: 2, 1551, 66, 464
+	offsets: 26, 20, 113, 504
+Fine_Hair_10
+	bounds: 969, 33, 242, 478
+	offsets: 26, 21, 291, 525
+	rotate: 270
+Fine_Hair_11
+	bounds: 2, 95, 272, 120
+	offsets: 27, 23, 324, 170
+Fine_Hair_12
+	bounds: 755, 72, 186, 341
+	offsets: 20, 19, 228, 383
+	rotate: 90
+Fine_Hair_13
+	bounds: 1112, 830, 127, 418
+	offsets: 26, 22, 177, 468
+	rotate: 90
+Fine_Hair_14
+	bounds: 86, 1609, 85, 406
+	offsets: 27, 24, 137, 456
+	rotate: 180
+Fine_Hair_15
+	bounds: 1116, 1165, 133, 278
+	offsets: 20, 21, 177, 324
+Fine_Hair_16
+	bounds: 746, 2, 193, 365
+	offsets: 24, 23, 243, 413
+	rotate: 90
+Flower
+	bounds: 1236, 1961, 76, 54
+	offsets: 26, 25, 125, 99
+Hair_01
+	bounds: 1343, 66, 357, 351
+	offsets: 32, 17, 410, 389
+	rotate: 180
+Hair_02
+	bounds: 1819, 1513, 227, 226
+	offsets: 24, 45, 276, 297
+Hair_03
+	bounds: 1320, 1895, 172, 120
+	offsets: 40, 27, 237, 180
+Hair_04
+	bounds: 1581, 894, 96, 198
+	offsets: 25, 24, 149, 240
+Hair_05
+	bounds: 1841, 1767, 186, 248
+	offsets: 25, 27, 236, 302
+Hair_06
+	bounds: 1125, 1301, 110, 162
+	offsets: 26, 19, 156, 207
+Hair_07
+	bounds: 184, 1870, 60, 145
+	offsets: 28, 26, 117, 197
+Hair_08
+	bounds: 90, 110, 213, 371
+	offsets: 17, 14, 251, 408
+	rotate: 90
+Hair_Back_L_01
+	bounds: 65, 288, 522, 1059
+	offsets: 9, 14, 542, 1094
+	rotate: 90
+Hair_Back_L_02
+	bounds: 1645, 982, 148, 165
+	offsets: 27, 29, 200, 219
+Hair_Back_L_03
+	bounds: 1048, 407, 210, 741
+	offsets: 26, 12, 261, 777
+	rotate: 90
+Hair_Back_R_01
+	bounds: 765, 105, 418, 184
+	offsets: 24, 24, 467, 230
+Hair_Back_R_02
+	bounds: 1064, 551, 943, 982
+	offsets: 12, 15, 971, 1017
+	rotate: 90
+Hair_Back_R_02_1
+	bounds: 1783, 580, 345, 263
+	offsets: 24, 16, 384, 297
+	rotate: 90
+Hair_Back_R_02_2
+	bounds: 469, 1873, 142, 467
+	offsets: 24, 25, 189, 519
+	rotate: 90
+Hair_Back_R_02_3
+	bounds: 1716, 26, 297, 330
+	offsets: 25, 23, 347, 375
+	rotate: 270
+Hair_Back_R_02_4
+	bounds: 209, 46, 201, 494
+	offsets: 26, 25, 267, 548
+	rotate: 90
+Hair_Back_R_02_5
+	bounds: 2, 538, 74, 274
+	offsets: 23, 22, 122, 323
+Hair_Side_L_01
+	bounds: 50, 1599, 48, 416
+	offsets: 23, 22, 98, 464
+	rotate: 180
+Hair_Side_L_02
+	bounds: 1820, 1299, 83, 217
+	offsets: 27, 25, 134, 270
+Hair_Side_R_01
+	bounds: 165, 1641, 31, 374
+	offsets: 30, 27, 89, 429
+Hair_Thigh_R
+	bounds: 1553, 68, 250, 242
+	offsets: 28, 27, 303, 296
+Head
+	bounds: 2, 741, 313, 350
+	offsets: 24, 26, 357, 410
+	rotate: 180
+Head_Back
+	bounds: 195, 1748, 185, 267
+	offsets: 10, 27, 222, 320
+Head_Shadow_01
+	bounds: 1154, 1437, 162, 180
+	offsets: 24, 26, 213, 231
+Head_Shadow_02
+	bounds: 1926, 1487, 120, 135
+	offsets: 25, 25, 173, 188
+Head_Shadow_03
+	bounds: 2, 1089, 79, 136
+	offsets: 25, 23, 131, 186
+Mouth
+	bounds: 120, 1988, 32, 27
+	offsets: 25, 22, 78, 72
+Nose
+	bounds: 2, 1984, 25, 31
+	offsets: 28, 28, 80, 86
+Screen_P_01
+	bounds: 364, 1842, 173, 270
+	offsets: 19, 20, 218, 311
+	rotate: 90
+Screen_P_02
+	bounds: 1089, 1618, 397, 255
+	offsets: 26, 18, 434, 299
+	rotate: 270
+Screen_P_03
+	bounds: 1106, 861, 755, 1154
+	offsets: 19, 9, 780, 1166
+	rotate: 180
+Shadow
+	bounds: 19, 658, 1357, 1111
+	offsets: 10, 21, 1377, 1146
+	rotate: 90
+Thigh_L
+	bounds: 1100, 236, 329, 197
+	offsets: 25, 20, 372, 242
+	rotate: 180
+Thigh_R
+	bounds: 455, 241, 328, 211
+	offsets: 24, 24, 375, 258
+	rotate: 180

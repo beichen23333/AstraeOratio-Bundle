@@ -1,0 +1,21 @@
+CH80027_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.73
+body
+	bounds: 2, 940, 1207, 853
+	offsets: 818, 2063, 2025, 2916
+body_1
+	bounds: 2, 2, 1052, 518
+	offsets: 973, 1555, 2025, 2916
+body_2
+	bounds: 896, 763, 1030, 1100
+	offsets: 4, 964, 2025, 2916
+	rotate: 270
+body_3
+	bounds: 1752, 1028, 294, 501
+	offsets: 1482, 1114, 2025, 2916
+body_4
+	bounds: 2, 171, 828, 1601
+	offsets: 1022, 0, 2025, 2916
+	rotate: 90

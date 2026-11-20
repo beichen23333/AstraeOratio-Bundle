@@ -1,0 +1,377 @@
+CH10022_SUD.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.6
+B_Screen
+	bounds: 1404, 1458, 642, 422
+	offsets: 3, 3, 647, 428
+	rotate: 180
+B_collar
+	bounds: 2, 1767, 89, 67
+	offsets: 8, 8, 105, 85
+B_jacket
+	bounds: 2, 162, 233, 181
+	offsets: 6, 6, 247, 195
+Core_Glow
+	bounds: 1097, 1427, 145, 129
+	offsets: 9, 10, 163, 148
+Eye_P
+	bounds: 26, 35, 159, 294
+	offsets: 7, 7, 174, 308
+	rotate: 90
+FX_Sakura_02
+	bounds: 616, 138, 165, 162
+FX_Sakura_03
+	bounds: 1898, 1308, 148, 148
+FX_Sakura_04
+	bounds: 1107, 1558, 260, 255
+F_collar
+	bounds: 2, 1324, 741, 395
+	offsets: 4, 3, 746, 398
+F_hair_1
+	bounds: 1452, 1845, 62, 276
+	offsets: 7, 7, 78, 289
+	rotate: 90
+F_hair_10
+	bounds: 998, 957, 135, 254
+	offsets: 8, 4, 148, 265
+	rotate: 90
+F_hair_11
+	bounds: 1775, 131, 237, 323
+	offsets: 9, 7, 253, 337
+F_hair_12
+	bounds: 382, 154, 96, 183
+	offsets: 10, 6, 112, 194
+F_hair_13
+	bounds: 1330, 85, 268, 276
+	offsets: 6, 8, 280, 292
+F_hair_14
+	bounds: 878, 597, 240, 183
+	offsets: 9, 9, 254, 197
+F_hair_15
+	bounds: 2, 1030, 93, 183
+	offsets: 9, 8, 110, 199
+F_hair_16
+	bounds: 1132, 491, 376, 230
+	offsets: 4, 5, 385, 243
+F_hair_17
+	bounds: 1475, 39, 274, 343
+	offsets: 9, 10, 292, 362
+	rotate: 90
+F_hair_18
+	bounds: 1977, 699, 56, 177
+	offsets: 8, 8, 72, 194
+F_hair_2
+	bounds: 1065, 1805, 102, 431
+	offsets: 9, 8, 115, 442
+	rotate: 90
+F_hair_3
+	bounds: 2, 1709, 119, 395
+	offsets: 9, 9, 134, 405
+	rotate: 90
+F_hair_4
+	bounds: 1291, 34, 160, 186
+	offsets: 9, 7, 176, 202
+F_hair_5
+	bounds: 1628, 914, 159, 103
+	offsets: 9, 9, 177, 121
+F_hair_6
+	bounds: 2, 60, 61, 174
+	offsets: 9, 9, 80, 192
+F_hair_7
+	bounds: 1516, 830, 86, 294
+	offsets: 5, 6, 98, 305
+	rotate: 90
+F_hair_8
+	bounds: 1957, 152, 89, 214
+	offsets: 8, 7, 101, 226
+F_hair_9
+	bounds: 2, 1014, 226, 387
+	offsets: 9, 8, 241, 403
+F_jacket
+	bounds: 494, 1319, 606, 575
+	offsets: 9, 6, 629, 588
+Guide_fx_ring_01
+	bounds: 443, 355, 208, 208
+Guide_fx_ring_02
+	bounds: 960, 359, 208, 208
+Guide_fx_ring_03
+	bounds: 2, 368, 208, 208
+Guide_fx_ring_04
+	bounds: 212, 339, 207, 208
+	rotate: 90
+Guide_fx_ring_05
+	bounds: 653, 302, 200, 208
+	rotate: 90
+L_arm_1
+	bounds: 1465, 872, 581, 403
+	offsets: 38, 39, 645, 460
+L_arm_1_B
+	bounds: 1366, 603, 416, 314
+	offsets: 38, 39, 645, 460
+L_arm_2
+	bounds: 2, 1525, 227, 166
+	offsets: 9, 8, 250, 184
+L_arm_2_1
+	bounds: 980, 1774, 84, 116
+	offsets: 6, 8, 98, 131
+L_bell_1
+	bounds: 436, 754, 77, 133
+	offsets: 8, 8, 94, 150
+L_bell_2
+	bounds: 1360, 1514, 43, 134
+	offsets: 9, 9, 62, 147
+L_bell_3
+	bounds: 274, 1288, 61, 104
+	offsets: 5, 10, 76, 122
+L_hair_b_1
+	bounds: 89, 1281, 74, 220
+	offsets: 8, 5, 92, 233
+	rotate: 90
+L_hair_b_2
+	bounds: 619, 34, 102, 382
+	offsets: 10, 6, 119, 395
+	rotate: 90
+L_hair_b_3
+	bounds: 1980, 1062, 57, 181
+	offsets: 9, 7, 74, 197
+L_hair_b_4
+	bounds: 925, 250, 123, 243
+	offsets: 7, 9, 139, 261
+	rotate: 90
+L_hair_b_5
+	bounds: 1879, 291, 167, 374
+	offsets: 9, 6, 185, 386
+	rotate: 180
+L_hair_b_6
+	bounds: 147, 547, 283, 336
+	offsets: 9, 8, 359, 437
+	rotate: 270
+L_hand
+	bounds: 84, 1300, 209, 136
+	offsets: 8, 7, 227, 151
+L_thumb_1
+	bounds: 392, 1691, 133, 101
+	offsets: 9, 10, 149, 120
+Particle_01
+	bounds: 769, 89, 195, 131
+	offsets: 5, 8, 208, 146
+Particle_02
+	bounds: 1170, 290, 205, 213
+	offsets: 9, 7, 223, 230
+Particle_03
+	bounds: 1577, 157, 209, 218
+	offsets: 7, 6, 222, 229
+Particle_04
+	bounds: 421, 159, 213, 194
+	offsets: 10, 10, 234, 211
+Particle_05
+	bounds: 578, 772, 446, 461
+	offsets: 4, 5, 456, 471
+	rotate: 90
+Particle_06
+	bounds: 462, 660, 422, 284
+	offsets: 5, 4, 427, 292
+	rotate: 180
+R_arm_1
+	bounds: 155, 1046, 634, 324
+	offsets: 6, 8, 646, 338
+R_arm_2
+	bounds: 1632, 399, 254, 262
+	offsets: 4, 8, 264, 278
+	rotate: 270
+R_arm_3
+	bounds: 1756, 626, 258, 291
+	offsets: 6, 9, 271, 304
+R_bell_1
+	bounds: 520, 1692, 75, 76
+	offsets: 9, 9, 94, 94
+R_bell_2
+	bounds: 57, 1664, 106, 52
+	offsets: 10, 11, 124, 73
+R_bell_3
+	bounds: 364, 1627, 138, 118
+	offsets: 8, 9, 154, 133
+R_bell_4
+	bounds: 1102, 714, 149, 98
+	offsets: 5, 8, 160, 115
+R_bell_5
+	bounds: 219, 1528, 83, 104
+	offsets: 9, 7, 101, 119
+R_bell_6
+	bounds: 1124, 750, 120, 109
+	offsets: 8, 6, 136, 122
+R_bell_7
+	bounds: 1925, 1140, 82, 105
+	offsets: 9, 9, 99, 124
+R_bell_8
+	bounds: 552, 1864, 47, 43
+	offsets: 9, 10, 62, 62
+R_hand
+	bounds: 2, 593, 147, 194
+	offsets: 9, 8, 165, 211
+R_thumb_1
+	bounds: 642, 1744, 99, 120
+	offsets: 5, 8, 114, 131
+body
+	bounds: 1371, 300, 258, 278
+	offsets: 6, 3, 268, 291
+	rotate: 90
+ear
+	bounds: 1030, 1704, 63, 116
+	offsets: 7, 4, 78, 127
+hair_ribbon_1
+	bounds: 1101, 37, 192, 154
+	offsets: 6, 5, 204, 165
+hair_ribbon_2
+	bounds: 1713, 1868, 58, 39
+	offsets: 6, 4, 68, 50
+hair_ribbon_3
+	bounds: 599, 1879, 24, 28
+	offsets: 9, 8, 42, 46
+hair_ribbon_4
+	bounds: 1663, 1367, 233, 89
+	offsets: 6, 8, 247, 105
+hair_ribbon_5
+	bounds: 478, 1061, 133, 78
+	offsets: 8, 9, 149, 93
+hair_ribbon_6
+	bounds: 512, 1881, 31, 26
+	offsets: 8, 8, 43, 43
+hair_ribbon_7
+	bounds: 593, 1837, 131, 70
+	offsets: 3, 7, 141, 86
+hair_ribbon_8
+	bounds: 1227, 1468, 134, 88
+	offsets: 8, 9, 151, 106
+hair_ribbon_9
+	bounds: 2, 1488, 81, 81
+	offsets: 8, 9, 98, 100
+mask_1
+	bounds: 37, 789, 329, 624
+	offsets: 7, 9, 343, 638
+	rotate: 270
+mask_2
+	bounds: 1741, 29, 204, 252
+	offsets: 8, 8, 217, 266
+neck
+	bounds: 1213, 712, 152, 187
+	offsets: 7, 12, 170, 201
+ponytail_1
+	bounds: 634, 1796, 504, 111
+	offsets: 9, 9, 522, 127
+	rotate: 180
+ponytail_2
+	bounds: 864, 159, 393, 318
+	offsets: 6, 11, 404, 336
+	rotate: 90
+ponytail_3
+	bounds: 964, 1092, 1057, 378
+	offsets: 5, 1, 1063, 379
+	rotate: 180
+ponytail_4
+	bounds: 938, 682, 779, 351
+	offsets: 3, 2, 823, 355
+ponytail_5
+	bounds: 2, 1763, 631, 144
+	offsets: 10, 9, 649, 161
+ribbon_1
+	bounds: 313, 1702, 56, 52
+	offsets: 5, 6, 66, 64
+ribbon_2
+	bounds: 1342, 1042, 122, 188
+	offsets: 8, 8, 139, 206
+ribbon_3
+	bounds: 1770, 1865, 54, 42
+	offsets: 2, 4, 61, 49
+ribbon_4
+	bounds: 832, 1187, 180, 144
+	offsets: 9, 9, 197, 160
+ribbon_5
+	bounds: 1752, 1098, 234, 170
+	offsets: 7, 6, 248, 185
+skirt
+	bounds: 463, 503, 500, 156
+	offsets: 5, 7, 511, 176
+stick
+	bounds: 921, 11, 431, 251
+	offsets: 6, 6, 441, 263
+sword
+	bounds: 2, 2, 364, 599
+	offsets: 4, 5, 368, 608
+	rotate: 90
+
+CH10022_SUD_2.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.6
+00/BG
+	bounds: 2, 594, 642, 423
+	offsets: 3, 3, 647, 428
+00/Cah_Blur_01
+	bounds: 2, 52, 706, 541
+	offsets: 1, 0, 707, 541
+00/Cah_Blur_02
+	bounds: 621, 9, 863, 301
+	rotate: 180
+00/Cah_Blur_03
+	bounds: 1627, 27, 455, 199
+	offsets: 0, 3, 456, 207
+	rotate: 90
+00/Cah_Blur_04
+	bounds: 978, 323, 610, 648
+	offsets: 10, 7, 620, 657
+00/Cah_Blur_05
+	bounds: 645, 241, 776, 501
+	offsets: 1, 3, 779, 505
+	rotate: 90
+00/Cah_Blur_06
+	bounds: 1317, 282, 707, 648
+	offsets: 6, 0, 717, 651
+	rotate: 90
+00/FX_Sakura_01
+	bounds: 645, 887, 57, 42
+	offsets: 12, 12, 81, 66
+00/Particle_B_01
+	bounds: 163, 7, 125, 130
+	offsets: 3, 0, 131, 135
+	rotate: 90
+00/Particle_B_02
+	bounds: 155, 506, 67, 70
+	offsets: 7, 7, 82, 85
+00/Particle_B_03
+	bounds: 791, 912, 100, 105
+	offsets: 4, 3, 111, 113
+00/Particle_B_04
+	bounds: 932, 213, 94, 103
+	offsets: 9, 5, 111, 113
+00/Particle_B_05
+	bounds: 2, 2, 144, 151
+	offsets: 5, 3, 155, 160
+	rotate: 90
+00/Particle_B_06
+	bounds: 2, 442, 66, 70
+	offsets: 8, 7, 82, 85
+00/Particle_B_07
+	bounds: 349, 2, 121, 126
+	offsets: 6, 5, 132, 136
+	rotate: 270
+00/Particle_B_08
+	bounds: 653, 251, 96, 102
+	offsets: 8, 5, 110, 113
+00/Particle_B_09
+	bounds: 2, 461, 172, 132
+	offsets: 7, 6, 187, 143
+00/Sakura_B_01
+	bounds: 603, 505, 64, 88
+	offsets: 12, 12, 88, 112
+00/Sakura_B_02
+	bounds: 925, 901, 68, 31
+	offsets: 12, 12, 92, 55
+00/Sakura_B_03
+	bounds: 295, 63, 55, 43
+	offsets: 12, 12, 79, 67
+00/Sakura_B_04
+	bounds: 645, 931, 66, 86
+00/Sakura_B_05
+	bounds: 918, 934, 107, 83

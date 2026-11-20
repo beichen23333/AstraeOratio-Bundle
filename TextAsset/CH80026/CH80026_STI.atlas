@@ -1,0 +1,98 @@
+CH80026_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 1280, 487, 206, 102
+	offsets: 16, 16, 238, 134
+01
+	bounds: 1851, 694, 216, 123
+	offsets: 10, 0, 238, 134
+	rotate: 90
+02
+	bounds: 1282, 591, 206, 109
+	offsets: 16, 16, 238, 141
+03
+	bounds: 418, 481, 206, 97
+	offsets: 16, 16, 238, 129
+04
+	bounds: 1072, 592, 208, 108
+	offsets: 16, 16, 239, 140
+05
+	bounds: 1488, 486, 208, 101
+	offsets: 15, 15, 238, 131
+06
+	bounds: 862, 486, 208, 104
+	offsets: 15, 16, 238, 136
+07
+	bounds: 1490, 591, 202, 109
+	offsets: 16, 16, 234, 141
+08
+	bounds: 862, 592, 208, 108
+	offsets: 15, 16, 238, 140
+09
+	bounds: 626, 482, 208, 96
+	offsets: 15, 16, 238, 128
+10
+	bounds: 1728, 702, 208, 121
+	offsets: 15, 16, 238, 153
+	rotate: 90
+11
+	bounds: 1336, 702, 208, 133
+	offsets: 15, 15, 238, 163
+	rotate: 90
+12
+	bounds: 448, 580, 208, 120
+	offsets: 15, 16, 238, 152
+13
+	bounds: 658, 583, 202, 117
+	offsets: 16, 15, 234, 147
+14
+	bounds: 836, 388, 206, 96
+	offsets: 16, 15, 238, 126
+15
+	bounds: 1602, 702, 208, 124
+	offsets: 15, 16, 238, 156
+	rotate: 90
+16
+	bounds: 1051, 702, 208, 144
+	offsets: 15, 15, 238, 174
+	rotate: 90
+17
+	bounds: 1694, 589, 208, 105
+	offsets: 15, 15, 238, 135
+18
+	bounds: 1698, 486, 206, 101
+	offsets: 16, 15, 238, 131
+19
+	bounds: 1072, 486, 206, 104
+	offsets: 16, 16, 238, 136
+20
+	bounds: 1471, 702, 208, 129
+	offsets: 15, 16, 238, 161
+	rotate: 90
+21
+	bounds: 753, 702, 208, 149
+	offsets: 15, 15, 238, 179
+	rotate: 90
+22
+	bounds: 1197, 706, 204, 137
+	offsets: 16, 16, 236, 169
+	rotate: 90
+23
+	bounds: 904, 702, 208, 145
+	offsets: 15, 15, 238, 175
+	rotate: 90
+24
+	bounds: 1044, 407, 201, 77
+	offsets: 16, 16, 233, 109
+25
+	bounds: 559, 702, 208, 192
+	offsets: 15, 16, 238, 224
+	rotate: 90
+99
+	bounds: 1280, 398, 200, 87
+	offsets: 16, 15, 232, 118
+body
+	bounds: 2, 2, 555, 908
+	offsets: 0, 10, 555, 918

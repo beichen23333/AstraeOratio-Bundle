@@ -1,0 +1,58 @@
+CH10017_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+00
+	bounds: 2, 2, 234, 254
+	offsets: 16, 16, 266, 286
+	rotate: 90
+01
+	bounds: 1239, 972, 266, 286
+02
+	bounds: 853, 159, 234, 254
+	offsets: 16, 16, 266, 286
+03
+	bounds: 1763, 236, 234, 254
+	offsets: 16, 16, 266, 286
+04
+	bounds: 1527, 236, 234, 254
+	offsets: 16, 16, 266, 286
+05
+	bounds: 1291, 236, 234, 254
+	offsets: 16, 16, 266, 286
+06
+	bounds: 2, 238, 234, 254
+	offsets: 16, 16, 266, 286
+07
+	bounds: 1707, 492, 234, 254
+	offsets: 16, 16, 266, 286
+08
+	bounds: 1471, 492, 234, 254
+	offsets: 16, 16, 266, 286
+09
+	bounds: 2, 494, 234, 254
+	offsets: 16, 16, 266, 286
+10
+	bounds: 1235, 716, 234, 254
+	offsets: 16, 16, 266, 286
+11
+	bounds: 1743, 748, 234, 254
+	offsets: 16, 16, 266, 286
+12
+	bounds: 1507, 748, 234, 254
+	offsets: 16, 16, 266, 286
+13
+	bounds: 1743, 1004, 234, 254
+	offsets: 16, 16, 266, 286
+99
+	bounds: 1507, 1004, 234, 254
+	offsets: 16, 16, 266, 286
+Body
+	bounds: 2, 39, 931, 1219
+	offsets: 0, 817, 931, 2036
+Body_02
+	bounds: 831, 414, 481, 844
+	offsets: 286, 0, 931, 2036
+Hair_Cover
+	bounds: 2, 1162, 219, 96
+	offsets: 7, 11, 234, 118

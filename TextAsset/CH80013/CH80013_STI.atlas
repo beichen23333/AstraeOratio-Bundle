@@ -1,0 +1,11 @@
+CH80013_STI.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.8
+body
+bounds:2,976,1927,1066
+offsets:0,895,1927,1961
+body_1
+bounds:2,2,1927,993
+offsets:0,0,1927,1961
+rotate:180

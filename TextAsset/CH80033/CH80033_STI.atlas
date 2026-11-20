@@ -1,0 +1,56 @@
+CH80033_STI.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.75
+00
+	bounds: 804, 310, 140, 150
+	offsets: 15, 15, 170, 180
+01
+	bounds: 544, 777, 170, 181
+02
+	bounds: 852, 462, 142, 165
+	offsets: 14, 15, 170, 195
+	rotate: 90
+03
+	bounds: 726, 164, 142, 144
+	offsets: 14, 15, 170, 174
+04
+	bounds: 716, 774, 184, 160
+	offsets: 14, 14, 212, 188
+	rotate: 90
+05
+	bounds: 649, 318, 142, 153
+	offsets: 14, 15, 170, 182
+	rotate: 90
+06
+	bounds: 2, 162, 139, 135
+	offsets: 15, 15, 169, 165
+07
+	bounds: 878, 801, 134, 157
+	offsets: 15, 14, 164, 185
+08
+	bounds: 583, 170, 141, 146
+	offsets: 14, 15, 170, 176
+09
+	bounds: 788, 606, 166, 163
+	offsets: 15, 15, 196, 193
+	rotate: 90
+10
+	bounds: 681, 462, 142, 169
+	offsets: 14, 14, 170, 197
+	rotate: 90
+11
+	bounds: 2, 608, 142, 190
+	offsets: 14, 15, 170, 220
+12
+	bounds: 602, 613, 184, 159
+	offsets: 14, 15, 212, 189
+13
+	bounds: 2, 800, 201, 158
+	offsets: 15, 15, 231, 188
+99
+	bounds: 870, 163, 138, 145
+	offsets: 14, 15, 167, 175
+Body
+	bounds: 2, 2, 677, 956
+	offsets: 0, 10, 677, 974

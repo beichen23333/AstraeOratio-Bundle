@@ -1,0 +1,123 @@
+CH10027_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.75
+00
+	bounds: 1524, 691, 172, 172
+	offsets: 15, 15, 203, 202
+01
+	bounds: 1798, 1810, 203, 202
+	rotate: 90
+02
+	bounds: 1176, 712, 172, 172
+	offsets: 15, 15, 203, 202
+03
+	bounds: 1710, 746, 172, 172
+	offsets: 15, 15, 203, 202
+04
+	bounds: 1829, 1094, 175, 170
+	offsets: 15, 15, 205, 200
+05
+	bounds: 1536, 403, 171, 169
+	offsets: 15, 15, 202, 199
+06
+	bounds: 1362, 520, 172, 169
+	offsets: 15, 15, 203, 199
+07
+	bounds: 1187, 540, 173, 170
+	offsets: 15, 15, 203, 200
+08
+	bounds: 1873, 575, 172, 169
+	offsets: 15, 15, 203, 199
+09
+	bounds: 1873, 404, 171, 169
+	offsets: 15, 15, 202, 199
+10
+	bounds: 750, 515, 171, 169
+	offsets: 15, 15, 202, 199
+11
+	bounds: 1655, 1155, 172, 179
+	offsets: 15, 15, 202, 209
+12
+	bounds: 1110, 371, 172, 167
+	offsets: 15, 15, 202, 197
+13
+	bounds: 935, 371, 173, 167
+	offsets: 15, 15, 203, 197
+14
+	bounds: 1350, 806, 172, 172
+	offsets: 15, 15, 203, 202
+15
+	bounds: 1012, 540, 173, 170
+	offsets: 15, 15, 203, 200
+16
+	bounds: 246, 1852, 173, 161
+	offsets: 15, 15, 203, 191
+17
+	bounds: 1129, 1505, 172, 182
+	offsets: 15, 15, 202, 212
+18
+	bounds: 1873, 920, 172, 172
+	offsets: 15, 15, 203, 202
+19
+	bounds: 1527, 1838, 175, 170
+	offsets: 15, 15, 205, 200
+	rotate: 90
+20
+	bounds: 1698, 574, 173, 170
+	offsets: 15, 15, 203, 200
+99
+	bounds: 1699, 920, 172, 172
+	offsets: 15, 15, 203, 202
+Body
+	bounds: 2, 849, 1127, 1164
+	offsets: 203, 1062, 1423, 2226
+Body_02
+	bounds: 1160, 864, 548, 1149
+	offsets: 555, 0, 1423, 2226
+	rotate: 180
+Body_03
+	bounds: 286, 683, 771, 1148
+	offsets: 0, 122, 1423, 2226
+	rotate: 270
+Body_04
+	bounds: 2, 175, 706, 1145
+	offsets: 716, 40, 1423, 2226
+	rotate: 180
+Core_Light
+	bounds: 2, 1646, 148, 152
+	offsets: 11, 11, 171, 173
+Hair_Cover
+	bounds: 2, 1756, 244, 257
+	offsets: 6, 1, 259, 262
+Mask
+	bounds: 1689, 1265, 314, 288
+	offsets: 5, 3, 330, 302
+	rotate: 180
+Particle_01
+	bounds: 290, 1027, 245, 245
+Particle_02
+	bounds: 421, 1918, 95, 95
+	offsets: 9, 9, 110, 110
+Particle_03
+	bounds: 1113, 1338, 164, 165
+Particle_04
+	bounds: 2, 355, 185, 226
+	offsets: 9, 10, 194, 236
+Particle_05
+	bounds: 1878, 1486, 168, 168
+Particle_06
+	bounds: 1720, 1497, 271, 311
+	offsets: 0, 9, 278, 320
+	rotate: 180
+Particle_07
+	bounds: 1011, 1880, 133, 133
+Particle_08
+	bounds: 1093, 1835, 90, 92
+	offsets: 6, 7, 104, 104
+Stick
+	bounds: 330, 2, 1025, 816
+	offsets: 4, 6, 1029, 822
+Wand
+	bounds: 1588, 1495, 208, 518
+	offsets: 0, 8, 217, 526

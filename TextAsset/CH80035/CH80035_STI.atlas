@@ -1,0 +1,65 @@
+CH80035_STI.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.65
+00
+	bounds: 1900, 1658, 127, 118
+	rotate: 90
+01
+	bounds: 1041, 1682, 102, 93
+	offsets: 13, 13, 127, 118
+99
+	bounds: 1041, 1682, 102, 93
+	offsets: 13, 13, 127, 118
+02
+	bounds: 1900, 1787, 125, 122
+	rotate: 90
+03
+	bounds: 881, 1777, 163, 135
+04
+	bounds: 374, 1646, 147, 127
+05
+	bounds: 879, 1648, 160, 127
+06
+	bounds: 1511, 1778, 148, 134
+07
+	bounds: 544, 1643, 161, 134
+08
+	bounds: 372, 1775, 170, 137
+09
+	bounds: 707, 1650, 170, 125
+10
+	bounds: 1046, 1777, 162, 135
+11
+	bounds: 716, 1777, 163, 135
+12
+	bounds: 1770, 1742, 170, 128
+	rotate: 90
+13
+	bounds: 544, 1779, 170, 133
+Body
+	bounds: 2, 2, 1508, 1910
+	offsets: 0, 0, 1780, 1910
+Body_02
+	bounds: 1342, 948, 467, 964
+	offsets: 1310, 270, 1780, 1910
+	rotate: 180
+Body_03
+	bounds: 2, 1269, 392, 643
+	offsets: 234, 66, 1780, 1910
+Painful_Sweat_01
+	bounds: 2, 1744, 42, 51
+Painful_Sweat_02
+	bounds: 1552, 1723, 39, 53
+Painful_Sweat_03
+	bounds: 1661, 1860, 43, 52
+Painful_Sweat_04
+	bounds: 1210, 1780, 40, 55
+Painful_Sweat_05
+	bounds: 1210, 1729, 43, 49
+Painful_Sweat_06
+	bounds: 1505, 1730, 45, 46
+Painful_Sweat_07
+	bounds: 1145, 1726, 42, 49
+Painful_Sweat_08
+	bounds: 46, 1719, 40, 51

@@ -1,0 +1,49 @@
+CH80003_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+01
+	bounds: 1490, 687, 252, 144
+	offsets: 16, 15, 284, 175
+	rotate: 90
+02
+	bounds: 1344, 687, 252, 144
+	offsets: 16, 16, 284, 176
+	rotate: 90
+03
+	bounds: 1781, 687, 252, 139
+	offsets: 16, 15, 284, 170
+	rotate: 90
+04
+	bounds: 1636, 687, 252, 143
+	offsets: 16, 16, 284, 175
+	rotate: 90
+99
+	bounds: 1335, 541, 241, 144
+	offsets: 16, 15, 273, 175
+Glasses
+	bounds: 1756, 455, 249, 114
+Glasses_Kira
+	bounds: 1756, 571, 249, 114
+Particles_01
+	bounds: 1119, 476, 159, 286
+	offsets: 8, 2, 180, 301
+Particles_02
+	bounds: 1363, 327, 124, 212
+	offsets: 10, 13, 147, 238
+Particles_03
+	bounds: 1117, 655, 226, 284
+	offsets: 13, 13, 250, 310
+Wand
+	bounds: 1266, 190, 150, 467
+	offsets: 0, 7, 171, 475
+Wand_Light
+	bounds: 1578, 508, 176, 177
+body
+	bounds: 2, 411, 528, 1117
+	offsets: 7, 1240, 546, 2366
+	rotate: 90
+body_1
+	bounds: 2, 2, 457, 1239
+	offsets: 80, 10, 546, 2366
+	rotate: 90

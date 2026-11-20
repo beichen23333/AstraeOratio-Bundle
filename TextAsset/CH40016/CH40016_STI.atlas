@@ -1,0 +1,33 @@
+CH40016_STI.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.8
+Character
+	bounds: 2, 405, 588, 1149
+	offsets: 5, 1223, 593, 2372
+	rotate: 90
+Character_2
+	bounds: 290, 2, 501, 1230
+	offsets: 5, 0, 593, 2372
+	rotate: 90
+Face
+	bounds: 2, 844, 252, 149
+Mask
+	bounds: 1152, 484, 324, 509
+	offsets: 7, 10, 338, 529
+Particle_01
+	bounds: 256, 845, 142, 148
+Particle_02
+	bounds: 1412, 547, 338, 446
+	offsets: 0, 6, 346, 463
+	rotate: 180
+Particle_03
+	bounds: 1826, 551, 220, 278
+	offsets: 10, 11, 230, 289
+Particle_04
+	bounds: 1638, 655, 221, 338
+	offsets: 8, 7, 234, 354
+	rotate: 180
+Wand
+	bounds: 1409, 344, 396, 419
+	offsets: 6, 5, 404, 424
